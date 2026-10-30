@@ -1,0 +1,274 @@
+{
+  "MSourceRows": {
+    "value": 484,
+    "display": "484"
+  },
+  "MSourceFiles": {
+    "value": 18,
+    "display": "18"
+  },
+  "MSourceBytes": {
+    "value": 2248070,
+    "display": "2,248,070"
+  },
+  "MNativeChecks": {
+    "value": 6024,
+    "display": "6,024"
+  },
+  "MDevChecks": {
+    "value": 8970,
+    "display": "8,970"
+  },
+  "MFinalChecks": {
+    "value": 2272,
+    "display": "2,272"
+  },
+  "MTraining": {
+    "value": 168,
+    "display": "168"
+  },
+  "MValidation": {
+    "value": 30,
+    "display": "30"
+  },
+  "MFinal": {
+    "value": 39,
+    "display": "39"
+  },
+  "MTrainPos": {
+    "value": 12,
+    "display": "12"
+  },
+  "MValPos": {
+    "value": 4,
+    "display": "4"
+  },
+  "MFinalPos": {
+    "value": 10,
+    "display": "10"
+  },
+  "MFixtures": {
+    "value": 21,
+    "display": "21"
+  },
+  "MDeps": {
+    "value": 32,
+    "display": "32"
+  },
+  "MCandidates": {
+    "value": 9,
+    "display": "9"
+  },
+  "MShortN": {
+    "value": 154,
+    "display": "154"
+  },
+  "MShortPos": {
+    "value": 7,
+    "display": "7"
+  },
+  "MLongN": {
+    "value": 14,
+    "display": "14"
+  },
+  "MLongPos": {
+    "value": 5,
+    "display": "5"
+  },
+  "MTP": {
+    "value": 0,
+    "display": "0"
+  },
+  "MFP": {
+    "value": 0,
+    "display": "0"
+  },
+  "MFN": {
+    "value": 10,
+    "display": "10"
+  },
+  "MTN": {
+    "value": 29,
+    "display": "29"
+  },
+  "MBaseDev": {
+    "value": 0.3234948096885813,
+    "display": "0.323495"
+  },
+  "MSelectedDev": {
+    "value": 0.23324977338020556,
+    "display": "0.233250"
+  },
+  "MBaseFinal": {
+    "value": 0.2861623151934571,
+    "display": "0.286162"
+  },
+  "MSelectedFinal": {
+    "value": 0.2497268093736654,
+    "display": "0.249727"
+  },
+  "MBaseMicro": {
+    "value": 0.22304232100079852,
+    "display": "0.223042"
+  },
+  "MSelectedMicro": {
+    "value": 0.19172808290571722,
+    "display": "0.191728"
+  },
+  "MBaseLog": {
+    "value": 0.9039896825935385,
+    "display": "0.903990"
+  },
+  "MSelectedLog": {
+    "value": 0.8097125900166959,
+    "display": "0.809713"
+  },
+  "MBaseP": {
+    "value": 0.07647058823529412,
+    "display": "0.076471"
+  },
+  "MShortP": {
+    "value": 0.045654648956356736,
+    "display": "0.045655"
+  },
+  "MLongP": {
+    "value": 0.3384313725490196,
+    "display": "0.338431"
+  },
+  "MHTTPXBaseLog": {
+    "value": 1.5743305004340162,
+    "display": "1.574331"
+  },
+  "MHTTPXSelectedLog": {
+    "value": 1.6166033468543417,
+    "display": "1.616603"
+  },
+  "MRepoASource": {
+    "value": 27,
+    "display": "27"
+  },
+  "MRepoATraining": {
+    "value": 9,
+    "display": "9"
+  },
+  "MRepoAValidation": {
+    "value": 1,
+    "display": "1"
+  },
+  "MRepoAFinal": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoBSource": {
+    "value": 51,
+    "display": "51"
+  },
+  "MRepoBTraining": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoBValidation": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoBFinal": {
+    "value": 5,
+    "display": "5"
+  },
+  "MRepoCSource": {
+    "value": 30,
+    "display": "30"
+  },
+  "MRepoCTraining": {
+    "value": 9,
+    "display": "9"
+  },
+  "MRepoCValidation": {
+    "value": 4,
+    "display": "4"
+  },
+  "MRepoCFinal": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoDSource": {
+    "value": 57,
+    "display": "57"
+  },
+  "MRepoDTraining": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoDValidation": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoDFinal": {
+    "value": 11,
+    "display": "11"
+  },
+  "MRepoESource": {
+    "value": 38,
+    "display": "38"
+  },
+  "MRepoETraining": {
+    "value": 12,
+    "display": "12"
+  },
+  "MRepoEValidation": {
+    "value": 8,
+    "display": "8"
+  },
+  "MRepoEFinal": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoFSource": {
+    "value": 19,
+    "display": "19"
+  },
+  "MRepoFTraining": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoFValidation": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoFFinal": {
+    "value": 6,
+    "display": "6"
+  },
+  "MRepoGSource": {
+    "value": 177,
+    "display": "177"
+  },
+  "MRepoGTraining": {
+    "value": 138,
+    "display": "138"
+  },
+  "MRepoGValidation": {
+    "value": 17,
+    "display": "17"
+  },
+  "MRepoGFinal": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoHSource": {
+    "value": 85,
+    "display": "85"
+  },
+  "MRepoHTraining": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoHValidation": {
+    "value": 0,
+    "display": "0"
+  },
+  "MRepoHFinal": {
+    "value": 17,
+    "display": "17"
+  }
+}

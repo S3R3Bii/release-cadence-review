@@ -1,0 +1,19 @@
+{
+  "status": "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW",
+  "timestamp_utc": "2026-10-30T21:26:59.409220+00:00",
+  "compiler": "Tectonic",
+  "pages": 6,
+  "render_tool": "Poppler pdftoppm",
+  "render_dpi": 95,
+  "visual_checks": "All six pages and three current figures inspected. Readable tables/axes/units, no clipping or overlap, empty review queue and retrospective qualifications visible.",
+  "layout_warnings": [],
+  "private_log_sha256": "73b1d6419a26df61142049dcce8a08ff22430ba9d6be65fdec49aad8851ba496",
+  "artifact_sha256": {
+    "paper/main.tex": "6fd7efe1f49fdccdd5b77f460205d479a0aca75d3844aa672dac3bda9226ebee",
+    "paper/manuscript.pdf": "e0565d7bedab6d70337a6da3017b3b1665b28fe1d4462ddd5f64c187905946e0",
+    "paper/images/calibration_and_misses.pdf": "878ae5da2fc946f544b41f2056f8af6fb78fc63194a2da5a6333d9ff26cd67db",
+    "paper/images/project_scores.pdf": "933452d50ed3dc3f64769290b090764d59c02c3921600539172273f453fd2060",
+    "paper/images/validation_search.pdf": "d619d8e06c0b04a24a2891a87631c817a51c15d3ea73ac2980c573149e247d8a"
+  },
+  "failed_first_layout_retained": true
+}

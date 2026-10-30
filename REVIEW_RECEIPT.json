@@ -1,27 +1,29 @@
 {
-  "timestamp_utc": "2026-10-30T21:19:14.328546+00:00",
-  "version": "Complete development selection and offline exercise before final analytic extraction",
-  "status": "INCOMPLETE_FINAL_EVALUATION_AND_RELEASE_PENDING",
+  "timestamp_utc": "2026-10-30T21:26:59.417219+00:00",
+  "version": "Complete local artifact before full-history clone release replay",
+  "status": "INCOMPLETE_FULL_CLONE_AND_REMOTE_RELEASE_PENDING",
   "grade": 3,
   "gates": {
     "scope": "pass_protocol_defined",
     "source": "pass_minimal_metadata_and_complete_pagination",
     "privacy": "pending_staged_scan",
     "development": "pass",
-    "final_separation": "pass_before_final_analytic_extraction",
-    "replay": "development_current_checkout_pass_full_history_release_pending",
-    "release": "pending"
+    "final_separation": "pass_original32_dependency_freeze",
+    "replay": "full_history_pending",
+    "release": "pending",
+    "final_analysis": "pass2272_conditions",
+    "figures_and_manuscript": "pass_source_SVG_and_six_page_review"
   },
   "review_budget": {
     "max_rounds": 3,
     "max_active_minutes": 45,
     "max_review_calls": 60,
-    "round": 2,
+    "round": 3,
     "exact_accounting": "Not separately instrumented; acquisition and execution tracked separately"
   },
   "usage": {
     "source": "Codex get_usage_limits",
-    "observed_utc_minute": "2026-10-30T21:14Z",
+    "observed_utc_minute": "2026-10-30T21:19Z",
     "window_minutes": 10080,
     "used_percent": 50,
     "remaining_percent": 50,
@@ -41,7 +43,9 @@
   },
   "failures_retained": [
     "Initial whitespace check continued into commit; receipt normalized in next preserved revision.",
-    "Pagination path guard stopped at numeric repository-ID next link; preserved first15 original receipts/code and resumed once from verified cached bodies; only three new requests."
+    "Pagination path guard stopped at numeric repository-ID next link; preserved first15 original receipts/code and resumed once from verified cached bodies; only three new requests.",
+    "First figure legend overlapped subtitle; original files/maps retained and spacing fixed without data changes.",
+    "Initial six-page PDF had long-reference overfull lines; original PDF/source/log retained and xurl wrapping repaired. Final TeX has no layout/glyph warning; Fontconfig notice did not prevent compile/render."
   ],
   "checked_file_sha256": {
     "src/features.py": "f49b3e3b6dd9dfc61a27a32da74f8cc059abbaa3309ff84854bdf28e5dabe30b",
@@ -70,5 +74,24 @@
     "development_replay_tolerance_fields": 837,
     "authored_CLI_examples": 1,
     "selection_boundary": "Highest candidate cutpoint60 days and weakest prior1; no global optimum claim or unplanned grid extension"
+  },
+  "reviewed_files_sha256": {
+    "paper/main.tex": "6fd7efe1f49fdccdd5b77f460205d479a0aca75d3844aa672dac3bda9226ebee",
+    "paper/manuscript.pdf": "e0565d7bedab6d70337a6da3017b3b1665b28fe1d4462ddd5f64c187905946e0",
+    "paper/images/calibration_and_misses.pdf": "878ae5da2fc946f544b41f2056f8af6fb78fc63194a2da5a6333d9ff26cd67db",
+    "paper/images/project_scores.pdf": "933452d50ed3dc3f64769290b090764d59c02c3921600539172273f453fd2060",
+    "paper/images/validation_search.pdf": "d619d8e06c0b04a24a2891a87631c817a51c15d3ea73ac2980c573149e247d8a"
+  },
+  "final_evidence": {
+    "origins": 39,
+    "predictions": 78,
+    "gaps": 10,
+    "review_true_positives": 0,
+    "review_false_positives": 0,
+    "review_false_negatives": 10,
+    "review_true_negatives": 29,
+    "macro_brier_baseline": 0.2861623151934571,
+    "macro_brier_selected": 0.2497268093736654,
+    "conditions": 2272
   }
 }
