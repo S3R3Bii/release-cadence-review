@@ -1,14 +1,14 @@
 {
-  "timestamp_utc": "2026-10-30T21:03:31.231416+00:00",
-  "version": "Protocol before cohort acquisition",
-  "status": "INCOMPLETE_PROTOCOL_ONLY",
-  "grade": 2,
+  "timestamp_utc": "2026-10-30T21:14:27.597131+00:00",
+  "version": "Complete bounded metadata source before analytical derivation",
+  "status": "INCOMPLETE_SOURCE_PASS_ANALYSIS_PENDING",
+  "grade": 3,
   "gates": {
     "scope": "pass_protocol_defined",
-    "source": "unknown",
-    "privacy": "pending_scan",
+    "source": "pass_minimal_metadata_and_complete_pagination",
+    "privacy": "pending_staged_scan",
     "development": "unknown",
-    "final_separation": "pass_no_cohort_acquired",
+    "final_separation": "pass_final_outcomes_not_analytically_extracted",
     "replay": "unknown",
     "release": "pending"
   },
@@ -28,5 +28,31 @@
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_not_task_consumption": true
+  },
+  "source_evidence": {
+    "files": 18,
+    "bytes": 2248070,
+    "minimal_release_rows": 484,
+    "repositories": 8,
+    "independent_conditions": 6024,
+    "pagination_fixtures": 6,
+    "originals_private": true,
+    "metadata_not_historical_vintages": true
+  },
+  "failures_retained": [
+    "Initial whitespace check continued into commit; receipt normalized in next preserved revision.",
+    "Pagination path guard stopped at numeric repository-ID next link; preserved first15 original receipts/code and resumed once from verified cached bodies; only three new requests."
+  ],
+  "checked_file_sha256": {
+    "src/acquire_metadata.py": "2d3722ab54876616694407c4cf8008e8dcbdde4a89b7ebd4065dba07255b8b48",
+    "src/verify_metadata_originals.py": "7c2f7e23ba2cb87a1dc185f41f719681678d02f1b2f732e390655550379d5572",
+    "tests/test_pagination.py": "1a80bc700b84177aa91c67d08743cb13985254e0d9a010b3171ad7c956784b98",
+    "data/source_plan.json": "6d503291ef6a906e2a57aa525bb9562d0d31ca8a56089a99d0c177bfaeaab6e6",
+    "data/release_metadata.json": "530719543d1b35d2836a3c514d87ff704de52f8862277cbcdc58ea72d681820c",
+    "data/repository_metadata.json": "d099090b684c12575731770d921f24c8adf5fe72cdb0bee144cd2cf6a5a5e7ba",
+    "data/source_receipts.json": "acbab815847a91b36f9764ceb3fbec4f9424f5b968f38088f66253a4b8eb45e2",
+    "data/metadata_original_verification.json": "d8ecceacc1ff26fb08b67a40dceb486fee3876834fc0db67367a16e97c9d220c",
+    "PROTOCOL.md": "0c122d33ca7cedbc5aca5f8339ba6dfaa10c678379aa007f853c24dd3e2ecc6b",
+    "DATA_RIGHTS.md": "b2276e10a0e9353019903d3a3a7ea5af2426c36568a3a2a39990968849f32915"
   }
 }

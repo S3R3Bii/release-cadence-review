@@ -1,0 +1,66 @@
+[
+  {
+    "repository": "python-attrs/attrs",
+    "repository_id": 29918975,
+    "phase": "development",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "5b994fc9d8569ab896d99812675b5e1c1bc4235c9b5cd72c228e59d9ea03c4ae"
+  },
+  {
+    "repository": "encode/httpx",
+    "repository_id": 179492861,
+    "phase": "final",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "4d041ada33aaed1823acaad87d696980620b6f723b728599e162a2acbe93cec3"
+  },
+  {
+    "repository": "pallets/click",
+    "repository_id": 19103692,
+    "phase": "development",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "f129f38b5a80492a9d067718b9b81f2101adabc51c7d489d692eb65aeb6ebb46"
+  },
+  {
+    "repository": "psf/black",
+    "repository_id": 125266328,
+    "phase": "final",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "380b6b36cb12c97186b669acc7f25d369e8e1d313a8f1d7e37251a3a5a7dbe0f"
+  },
+  {
+    "repository": "pallets/flask",
+    "repository_id": 596892,
+    "phase": "development",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "b377ede71d294c337161cc6638737165a50a6cc7a2307dc52869062ac1a7f1a9"
+  },
+  {
+    "repository": "psf/requests",
+    "repository_id": 1362490,
+    "phase": "final",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "83acf47e2eb4867440041294b33fe1af88c7eeeca2ef2dcd7ad63812c2bbe0ce"
+  },
+  {
+    "repository": "Textualize/rich",
+    "repository_id": 220809393,
+    "phase": "development",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "4bfe50c432c840e6927a215684987778a743596de7c50c335eda5c0d0e19dedc"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "repository_id": 37489525,
+    "phase": "final",
+    "fork": false,
+    "archived": false,
+    "metadata_sha256": "574b78052f014b826947f442b09816272e3b62d07f6b848a0fedc2dd6477c14e"
+  }
+]
