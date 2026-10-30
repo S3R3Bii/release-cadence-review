@@ -1,0 +1,2184 @@
+{
+  "training": [
+    {
+      "followup_us": 803000000,
+      "at_risk": 168,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 167,
+        "denominator": 168,
+        "value": 0.9940476190476191
+      }
+    },
+    {
+      "followup_us": 1274000000,
+      "at_risk": 167,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 83,
+        "denominator": 84,
+        "value": 0.9880952380952381
+      }
+    },
+    {
+      "followup_us": 1419000000,
+      "at_risk": 166,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 55,
+        "denominator": 56,
+        "value": 0.9821428571428571
+      }
+    },
+    {
+      "followup_us": 1741000000,
+      "at_risk": 165,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 41,
+        "denominator": 42,
+        "value": 0.9761904761904762
+      }
+    },
+    {
+      "followup_us": 2502000000,
+      "at_risk": 164,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 163,
+        "denominator": 168,
+        "value": 0.9702380952380952
+      }
+    },
+    {
+      "followup_us": 2861000000,
+      "at_risk": 163,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 27,
+        "denominator": 28,
+        "value": 0.9642857142857143
+      }
+    },
+    {
+      "followup_us": 3993000000,
+      "at_risk": 162,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 24,
+        "value": 0.9583333333333334
+      }
+    },
+    {
+      "followup_us": 4264000000,
+      "at_risk": 161,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 20,
+        "denominator": 21,
+        "value": 0.9523809523809523
+      }
+    },
+    {
+      "followup_us": 5046000000,
+      "at_risk": 160,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 53,
+        "denominator": 56,
+        "value": 0.9464285714285714
+      }
+    },
+    {
+      "followup_us": 5477000000,
+      "at_risk": 159,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 79,
+        "denominator": 84,
+        "value": 0.9404761904761905
+      }
+    },
+    {
+      "followup_us": 5759000000,
+      "at_risk": 158,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 157,
+        "denominator": 168,
+        "value": 0.9345238095238095
+      }
+    },
+    {
+      "followup_us": 6242000000,
+      "at_risk": 157,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 14,
+        "value": 0.9285714285714286
+      }
+    },
+    {
+      "followup_us": 8346000000,
+      "at_risk": 156,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 155,
+        "denominator": 168,
+        "value": 0.9226190476190477
+      }
+    },
+    {
+      "followup_us": 8585000000,
+      "at_risk": 155,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 12,
+        "value": 0.9166666666666666
+      }
+    },
+    {
+      "followup_us": 9600000000,
+      "at_risk": 154,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 51,
+        "denominator": 56,
+        "value": 0.9107142857142857
+      }
+    },
+    {
+      "followup_us": 11101000000,
+      "at_risk": 153,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 21,
+        "value": 0.9047619047619048
+      }
+    },
+    {
+      "followup_us": 12630000000,
+      "at_risk": 152,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 151,
+        "denominator": 168,
+        "value": 0.8988095238095238
+      }
+    },
+    {
+      "followup_us": 21824000000,
+      "at_risk": 151,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 25,
+        "denominator": 28,
+        "value": 0.8928571428571429
+      }
+    },
+    {
+      "followup_us": 27741000000,
+      "at_risk": 150,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 149,
+        "denominator": 168,
+        "value": 0.8869047619047619
+      }
+    },
+    {
+      "followup_us": 50423000000,
+      "at_risk": 149,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 37,
+        "denominator": 42,
+        "value": 0.8809523809523809
+      }
+    },
+    {
+      "followup_us": 58143000000,
+      "at_risk": 148,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 7,
+        "denominator": 8,
+        "value": 0.875
+      }
+    },
+    {
+      "followup_us": 66130000000,
+      "at_risk": 147,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 73,
+        "denominator": 84,
+        "value": 0.8690476190476191
+      }
+    },
+    {
+      "followup_us": 69388000000,
+      "at_risk": 146,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 145,
+        "denominator": 168,
+        "value": 0.8630952380952381
+      }
+    },
+    {
+      "followup_us": 80347000000,
+      "at_risk": 145,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 6,
+        "denominator": 7,
+        "value": 0.8571428571428571
+      }
+    },
+    {
+      "followup_us": 82552000000,
+      "at_risk": 144,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 143,
+        "denominator": 168,
+        "value": 0.8511904761904762
+      }
+    },
+    {
+      "followup_us": 84208000000,
+      "at_risk": 143,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 71,
+        "denominator": 84,
+        "value": 0.8452380952380952
+      }
+    },
+    {
+      "followup_us": 84554000000,
+      "at_risk": 142,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 47,
+        "denominator": 56,
+        "value": 0.8392857142857143
+      }
+    },
+    {
+      "followup_us": 84929000000,
+      "at_risk": 141,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 6,
+        "value": 0.8333333333333334
+      }
+    },
+    {
+      "followup_us": 86423000000,
+      "at_risk": 140,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 139,
+        "denominator": 168,
+        "value": 0.8273809523809523
+      }
+    },
+    {
+      "followup_us": 88667000000,
+      "at_risk": 139,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 28,
+        "value": 0.8214285714285714
+      }
+    },
+    {
+      "followup_us": 89133000000,
+      "at_risk": 138,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 137,
+        "denominator": 168,
+        "value": 0.8154761904761905
+      }
+    },
+    {
+      "followup_us": 90422000000,
+      "at_risk": 137,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 21,
+        "value": 0.8095238095238095
+      }
+    },
+    {
+      "followup_us": 91402000000,
+      "at_risk": 136,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 45,
+        "denominator": 56,
+        "value": 0.8035714285714286
+      }
+    },
+    {
+      "followup_us": 93321000000,
+      "at_risk": 135,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 67,
+        "denominator": 84,
+        "value": 0.7976190476190477
+      }
+    },
+    {
+      "followup_us": 93923000000,
+      "at_risk": 134,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 24,
+        "value": 0.7916666666666666
+      }
+    },
+    {
+      "followup_us": 94280000000,
+      "at_risk": 133,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 14,
+        "value": 0.7857142857142857
+      }
+    },
+    {
+      "followup_us": 94983000000,
+      "at_risk": 132,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 131,
+        "denominator": 168,
+        "value": 0.7797619047619048
+      }
+    },
+    {
+      "followup_us": 102295000000,
+      "at_risk": 131,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 65,
+        "denominator": 84,
+        "value": 0.7738095238095238
+      }
+    },
+    {
+      "followup_us": 103870000000,
+      "at_risk": 130,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 43,
+        "denominator": 56,
+        "value": 0.7678571428571429
+      }
+    },
+    {
+      "followup_us": 106810000000,
+      "at_risk": 129,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 16,
+        "denominator": 21,
+        "value": 0.7619047619047619
+      }
+    },
+    {
+      "followup_us": 109376000000,
+      "at_risk": 128,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 127,
+        "denominator": 168,
+        "value": 0.7559523809523809
+      }
+    },
+    {
+      "followup_us": 121231000000,
+      "at_risk": 127,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 4,
+        "value": 0.75
+      }
+    },
+    {
+      "followup_us": 129255000000,
+      "at_risk": 126,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 125,
+        "denominator": 168,
+        "value": 0.7440476190476191
+      }
+    },
+    {
+      "followup_us": 137584000000,
+      "at_risk": 125,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 31,
+        "denominator": 42,
+        "value": 0.7380952380952381
+      }
+    },
+    {
+      "followup_us": 148237000000,
+      "at_risk": 124,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 41,
+        "denominator": 56,
+        "value": 0.7321428571428571
+      }
+    },
+    {
+      "followup_us": 153873000000,
+      "at_risk": 123,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 61,
+        "denominator": 84,
+        "value": 0.7261904761904762
+      }
+    },
+    {
+      "followup_us": 154279000000,
+      "at_risk": 122,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 121,
+        "denominator": 168,
+        "value": 0.7202380952380952
+      }
+    },
+    {
+      "followup_us": 155859000000,
+      "at_risk": 121,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 7,
+        "value": 0.7142857142857143
+      }
+    },
+    {
+      "followup_us": 156637000000,
+      "at_risk": 120,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 24,
+        "value": 0.7083333333333334
+      }
+    },
+    {
+      "followup_us": 158262000000,
+      "at_risk": 119,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 59,
+        "denominator": 84,
+        "value": 0.7023809523809523
+      }
+    },
+    {
+      "followup_us": 158583000000,
+      "at_risk": 118,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 39,
+        "denominator": 56,
+        "value": 0.6964285714285714
+      }
+    },
+    {
+      "followup_us": 161181000000,
+      "at_risk": 117,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 29,
+        "denominator": 42,
+        "value": 0.6904761904761905
+      }
+    },
+    {
+      "followup_us": 161827000000,
+      "at_risk": 116,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 115,
+        "denominator": 168,
+        "value": 0.6845238095238095
+      }
+    },
+    {
+      "followup_us": 162499000000,
+      "at_risk": 115,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 28,
+        "value": 0.6785714285714286
+      }
+    },
+    {
+      "followup_us": 165529000000,
+      "at_risk": 114,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 113,
+        "denominator": 168,
+        "value": 0.6726190476190477
+      }
+    },
+    {
+      "followup_us": 166059000000,
+      "at_risk": 113,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 3,
+        "value": 0.6666666666666666
+      }
+    },
+    {
+      "followup_us": 167901000000,
+      "at_risk": 112,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 37,
+        "denominator": 56,
+        "value": 0.6607142857142857
+      }
+    },
+    {
+      "followup_us": 168429000000,
+      "at_risk": 111,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 55,
+        "denominator": 84,
+        "value": 0.6547619047619048
+      }
+    },
+    {
+      "followup_us": 170055000000,
+      "at_risk": 110,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 109,
+        "denominator": 168,
+        "value": 0.6488095238095238
+      }
+    },
+    {
+      "followup_us": 170281000000,
+      "at_risk": 109,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 9,
+        "denominator": 14,
+        "value": 0.6428571428571429
+      }
+    },
+    {
+      "followup_us": 171193000000,
+      "at_risk": 108,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 107,
+        "denominator": 168,
+        "value": 0.6369047619047619
+      }
+    },
+    {
+      "followup_us": 172935000000,
+      "at_risk": 107,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 53,
+        "denominator": 84,
+        "value": 0.6309523809523809
+      }
+    },
+    {
+      "followup_us": 173099000000,
+      "at_risk": 106,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 8,
+        "value": 0.625
+      }
+    },
+    {
+      "followup_us": 174005000000,
+      "at_risk": 105,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 21,
+        "value": 0.6190476190476191
+      }
+    },
+    {
+      "followup_us": 177149000000,
+      "at_risk": 104,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 103,
+        "denominator": 168,
+        "value": 0.6130952380952381
+      }
+    },
+    {
+      "followup_us": 181192000000,
+      "at_risk": 103,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 28,
+        "value": 0.6071428571428571
+      }
+    },
+    {
+      "followup_us": 181828000000,
+      "at_risk": 102,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 101,
+        "denominator": 168,
+        "value": 0.6011904761904762
+      }
+    },
+    {
+      "followup_us": 182123000000,
+      "at_risk": 101,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 25,
+        "denominator": 42,
+        "value": 0.5952380952380952
+      }
+    },
+    {
+      "followup_us": 186873000000,
+      "at_risk": 100,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 33,
+        "denominator": 56,
+        "value": 0.5892857142857143
+      }
+    },
+    {
+      "followup_us": 190529000000,
+      "at_risk": 99,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 7,
+        "denominator": 12,
+        "value": 0.5833333333333334
+      }
+    },
+    {
+      "followup_us": 198000000000,
+      "at_risk": 98,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 97,
+        "denominator": 168,
+        "value": 0.5773809523809523
+      }
+    },
+    {
+      "followup_us": 205069000000,
+      "at_risk": 97,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 4,
+        "denominator": 7,
+        "value": 0.5714285714285714
+      }
+    },
+    {
+      "followup_us": 227847000000,
+      "at_risk": 96,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 95,
+        "denominator": 168,
+        "value": 0.5654761904761905
+      }
+    },
+    {
+      "followup_us": 244044000000,
+      "at_risk": 95,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 47,
+        "denominator": 84,
+        "value": 0.5595238095238095
+      }
+    },
+    {
+      "followup_us": 244535000000,
+      "at_risk": 94,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 31,
+        "denominator": 56,
+        "value": 0.5535714285714286
+      }
+    },
+    {
+      "followup_us": 253326000000,
+      "at_risk": 93,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 42,
+        "value": 0.5476190476190477
+      }
+    },
+    {
+      "followup_us": 253678000000,
+      "at_risk": 92,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 24,
+        "value": 0.5416666666666666
+      }
+    },
+    {
+      "followup_us": 262409000000,
+      "at_risk": 91,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 15,
+        "denominator": 28,
+        "value": 0.5357142857142857
+      }
+    },
+    {
+      "followup_us": 263882000000,
+      "at_risk": 90,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 89,
+        "denominator": 168,
+        "value": 0.5297619047619048
+      }
+    },
+    {
+      "followup_us": 264950000000,
+      "at_risk": 89,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 21,
+        "value": 0.5238095238095238
+      }
+    },
+    {
+      "followup_us": 268752000000,
+      "at_risk": 88,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 29,
+        "denominator": 56,
+        "value": 0.5178571428571429
+      }
+    },
+    {
+      "followup_us": 318642000000,
+      "at_risk": 87,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 43,
+        "denominator": 84,
+        "value": 0.5119047619047619
+      }
+    },
+    {
+      "followup_us": 322039000000,
+      "at_risk": 86,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 85,
+        "denominator": 168,
+        "value": 0.5059523809523809
+      }
+    },
+    {
+      "followup_us": 337275000000,
+      "at_risk": 85,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 2,
+        "value": 0.5
+      }
+    },
+    {
+      "followup_us": 341944000000,
+      "at_risk": 84,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 83,
+        "denominator": 168,
+        "value": 0.49404761904761907
+      }
+    },
+    {
+      "followup_us": 347694000000,
+      "at_risk": 83,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 41,
+        "denominator": 84,
+        "value": 0.4880952380952381
+      }
+    },
+    {
+      "followup_us": 350093000000,
+      "at_risk": 82,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 27,
+        "denominator": 56,
+        "value": 0.48214285714285715
+      }
+    },
+    {
+      "followup_us": 359392000000,
+      "at_risk": 81,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 10,
+        "denominator": 21,
+        "value": 0.47619047619047616
+      }
+    },
+    {
+      "followup_us": 364451000000,
+      "at_risk": 80,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 79,
+        "denominator": 168,
+        "value": 0.47023809523809523
+      }
+    },
+    {
+      "followup_us": 381417000000,
+      "at_risk": 79,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 28,
+        "value": 0.4642857142857143
+      }
+    },
+    {
+      "followup_us": 398929000000,
+      "at_risk": 78,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 24,
+        "value": 0.4583333333333333
+      }
+    },
+    {
+      "followup_us": 406625000000,
+      "at_risk": 77,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 42,
+        "value": 0.4523809523809524
+      }
+    },
+    {
+      "followup_us": 430469000000,
+      "at_risk": 76,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 25,
+        "denominator": 56,
+        "value": 0.44642857142857145
+      }
+    },
+    {
+      "followup_us": 440544000000,
+      "at_risk": 75,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 37,
+        "denominator": 84,
+        "value": 0.44047619047619047
+      }
+    },
+    {
+      "followup_us": 447012000000,
+      "at_risk": 74,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 73,
+        "denominator": 168,
+        "value": 0.43452380952380953
+      }
+    },
+    {
+      "followup_us": 457953000000,
+      "at_risk": 73,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 7,
+        "value": 0.42857142857142855
+      }
+    },
+    {
+      "followup_us": 485821000000,
+      "at_risk": 72,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 71,
+        "denominator": 168,
+        "value": 0.4226190476190476
+      }
+    },
+    {
+      "followup_us": 493108000000,
+      "at_risk": 71,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 12,
+        "value": 0.4166666666666667
+      }
+    },
+    {
+      "followup_us": 516280000000,
+      "at_risk": 70,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 56,
+        "value": 0.4107142857142857
+      }
+    },
+    {
+      "followup_us": 520843000000,
+      "at_risk": 69,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 42,
+        "value": 0.40476190476190477
+      }
+    },
+    {
+      "followup_us": 532216000000,
+      "at_risk": 68,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 67,
+        "denominator": 168,
+        "value": 0.39880952380952384
+      }
+    },
+    {
+      "followup_us": 548709000000,
+      "at_risk": 67,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 28,
+        "value": 0.39285714285714285
+      }
+    },
+    {
+      "followup_us": 581456000000,
+      "at_risk": 66,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 65,
+        "denominator": 168,
+        "value": 0.3869047619047619
+      }
+    },
+    {
+      "followup_us": 582776000000,
+      "at_risk": 65,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 8,
+        "denominator": 21,
+        "value": 0.38095238095238093
+      }
+    },
+    {
+      "followup_us": 592272000000,
+      "at_risk": 64,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 8,
+        "value": 0.375
+      }
+    },
+    {
+      "followup_us": 597967000000,
+      "at_risk": 63,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 31,
+        "denominator": 84,
+        "value": 0.36904761904761907
+      }
+    },
+    {
+      "followup_us": 618009000000,
+      "at_risk": 62,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 61,
+        "denominator": 168,
+        "value": 0.3630952380952381
+      }
+    },
+    {
+      "followup_us": 619089000000,
+      "at_risk": 61,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 14,
+        "value": 0.35714285714285715
+      }
+    },
+    {
+      "followup_us": 676908000000,
+      "at_risk": 60,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 59,
+        "denominator": 168,
+        "value": 0.35119047619047616
+      }
+    },
+    {
+      "followup_us": 679939000000,
+      "at_risk": 59,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 29,
+        "denominator": 84,
+        "value": 0.34523809523809523
+      }
+    },
+    {
+      "followup_us": 689788000000,
+      "at_risk": 58,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 56,
+        "value": 0.3392857142857143
+      }
+    },
+    {
+      "followup_us": 711108000000,
+      "at_risk": 57,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 3,
+        "value": 0.3333333333333333
+      }
+    },
+    {
+      "followup_us": 774267000000,
+      "at_risk": 56,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 55,
+        "denominator": 168,
+        "value": 0.3273809523809524
+      }
+    },
+    {
+      "followup_us": 784139000000,
+      "at_risk": 55,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 9,
+        "denominator": 28,
+        "value": 0.32142857142857145
+      }
+    },
+    {
+      "followup_us": 834331000000,
+      "at_risk": 54,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 53,
+        "denominator": 168,
+        "value": 0.31547619047619047
+      }
+    },
+    {
+      "followup_us": 839672000000,
+      "at_risk": 53,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 42,
+        "value": 0.30952380952380953
+      }
+    },
+    {
+      "followup_us": 854155000000,
+      "at_risk": 52,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 56,
+        "value": 0.30357142857142855
+      }
+    },
+    {
+      "followup_us": 932737000000,
+      "at_risk": 51,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 25,
+        "denominator": 84,
+        "value": 0.2976190476190476
+      }
+    },
+    {
+      "followup_us": 949130000000,
+      "at_risk": 50,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 7,
+        "denominator": 24,
+        "value": 0.2916666666666667
+      }
+    },
+    {
+      "followup_us": 969705000000,
+      "at_risk": 49,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 7,
+        "value": 0.2857142857142857
+      }
+    },
+    {
+      "followup_us": 1020951000000,
+      "at_risk": 48,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 47,
+        "denominator": 168,
+        "value": 0.27976190476190477
+      }
+    },
+    {
+      "followup_us": 1022566000000,
+      "at_risk": 47,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 84,
+        "value": 0.27380952380952384
+      }
+    },
+    {
+      "followup_us": 1026511000000,
+      "at_risk": 46,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 15,
+        "denominator": 56,
+        "value": 0.26785714285714285
+      }
+    },
+    {
+      "followup_us": 1041736000000,
+      "at_risk": 45,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 42,
+        "value": 0.2619047619047619
+      }
+    },
+    {
+      "followup_us": 1043743000000,
+      "at_risk": 44,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 43,
+        "denominator": 168,
+        "value": 0.25595238095238093
+      }
+    },
+    {
+      "followup_us": 1046363000000,
+      "at_risk": 43,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 4,
+        "value": 0.25
+      }
+    },
+    {
+      "followup_us": 1051378000000,
+      "at_risk": 42,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 41,
+        "denominator": 168,
+        "value": 0.24404761904761904
+      }
+    },
+    {
+      "followup_us": 1122284000000,
+      "at_risk": 41,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 21,
+        "value": 0.23809523809523808
+      }
+    },
+    {
+      "followup_us": 1266966000000,
+      "at_risk": 40,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 56,
+        "value": 0.23214285714285715
+      }
+    },
+    {
+      "followup_us": 1288329000000,
+      "at_risk": 39,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 84,
+        "value": 0.2261904761904762
+      }
+    },
+    {
+      "followup_us": 1357070000000,
+      "at_risk": 38,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 37,
+        "denominator": 168,
+        "value": 0.22023809523809523
+      }
+    },
+    {
+      "followup_us": 1366230000000,
+      "at_risk": 37,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 14,
+        "value": 0.21428571428571427
+      }
+    },
+    {
+      "followup_us": 1450563000000,
+      "at_risk": 36,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 24,
+        "value": 0.20833333333333334
+      }
+    },
+    {
+      "followup_us": 1582373000000,
+      "at_risk": 35,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 84,
+        "value": 0.20238095238095238
+      }
+    },
+    {
+      "followup_us": 1642489000000,
+      "at_risk": 34,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 56,
+        "value": 0.19642857142857142
+      }
+    },
+    {
+      "followup_us": 1653563000000,
+      "at_risk": 33,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 4,
+        "denominator": 21,
+        "value": 0.19047619047619047
+      }
+    },
+    {
+      "followup_us": 1656798000000,
+      "at_risk": 32,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 31,
+        "denominator": 168,
+        "value": 0.18452380952380953
+      }
+    },
+    {
+      "followup_us": 1709090000000,
+      "at_risk": 31,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 28,
+        "value": 0.17857142857142858
+      }
+    },
+    {
+      "followup_us": 1815129000000,
+      "at_risk": 30,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 29,
+        "denominator": 168,
+        "value": 0.17261904761904762
+      }
+    },
+    {
+      "followup_us": 1820480000000,
+      "at_risk": 29,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 6,
+        "value": 0.16666666666666666
+      }
+    },
+    {
+      "followup_us": 1826380000000,
+      "at_risk": 28,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 9,
+        "denominator": 56,
+        "value": 0.16071428571428573
+      }
+    },
+    {
+      "followup_us": 1969724000000,
+      "at_risk": 27,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 84,
+        "value": 0.15476190476190477
+      }
+    },
+    {
+      "followup_us": 2004068000000,
+      "at_risk": 26,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 25,
+        "denominator": 168,
+        "value": 0.1488095238095238
+      }
+    },
+    {
+      "followup_us": 2080535000000,
+      "at_risk": 25,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 7,
+        "value": 0.14285714285714285
+      }
+    },
+    {
+      "followup_us": 2407355000000,
+      "at_risk": 24,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 168,
+        "value": 0.13690476190476192
+      }
+    },
+    {
+      "followup_us": 2491631000000,
+      "at_risk": 23,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 84,
+        "value": 0.13095238095238096
+      }
+    },
+    {
+      "followup_us": 2575373000000,
+      "at_risk": 22,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 8,
+        "value": 0.125
+      }
+    },
+    {
+      "followup_us": 2775666000000,
+      "at_risk": 21,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 42,
+        "value": 0.11904761904761904
+      }
+    },
+    {
+      "followup_us": 3272949000000,
+      "at_risk": 20,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 168,
+        "value": 0.1130952380952381
+      }
+    },
+    {
+      "followup_us": 3396514000000,
+      "at_risk": 19,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 28,
+        "value": 0.10714285714285714
+      }
+    },
+    {
+      "followup_us": 3626248000000,
+      "at_risk": 18,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 168,
+        "value": 0.10119047619047619
+      }
+    },
+    {
+      "followup_us": 4173251000000,
+      "at_risk": 17,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 21,
+        "value": 0.09523809523809523
+      }
+    },
+    {
+      "followup_us": 5268810000000,
+      "at_risk": 16,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 56,
+        "value": 0.08928571428571429
+      }
+    },
+    {
+      "followup_us": 6577943000000,
+      "at_risk": 15,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 12,
+        "value": 0.08333333333333333
+      }
+    },
+    {
+      "followup_us": 7177842000000,
+      "at_risk": 14,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 168,
+        "value": 0.07738095238095238
+      }
+    },
+    {
+      "followup_us": 7676864000000,
+      "at_risk": 13,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 14,
+        "value": 0.07142857142857142
+      }
+    },
+    {
+      "followup_us": 11327046000000,
+      "at_risk": 12,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 168,
+        "value": 0.06547619047619048
+      }
+    },
+    {
+      "followup_us": 11510713000000,
+      "at_risk": 11,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 84,
+        "value": 0.05952380952380952
+      }
+    },
+    {
+      "followup_us": 11745700000000,
+      "at_risk": 10,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 56,
+        "value": 0.05357142857142857
+      }
+    },
+    {
+      "followup_us": 12274519000000,
+      "at_risk": 9,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 21,
+        "value": 0.047619047619047616
+      }
+    },
+    {
+      "followup_us": 12529905000000,
+      "at_risk": 8,
+      "events": 0,
+      "censored": 1,
+      "survival": {
+        "numerator": 1,
+        "denominator": 21,
+        "value": 0.047619047619047616
+      }
+    },
+    {
+      "followup_us": 12600328000000,
+      "at_risk": 7,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 49,
+        "value": 0.04081632653061224
+      }
+    },
+    {
+      "followup_us": 15718876000000,
+      "at_risk": 6,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 147,
+        "value": 0.034013605442176874
+      }
+    },
+    {
+      "followup_us": 18230763000000,
+      "at_risk": 5,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 4,
+        "denominator": 147,
+        "value": 0.027210884353741496
+      }
+    },
+    {
+      "followup_us": 19645152000000,
+      "at_risk": 4,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 49,
+        "value": 0.02040816326530612
+      }
+    },
+    {
+      "followup_us": 20294347000000,
+      "at_risk": 3,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 147,
+        "value": 0.013605442176870748
+      }
+    },
+    {
+      "followup_us": 21363732000000,
+      "at_risk": 2,
+      "events": 0,
+      "censored": 1,
+      "survival": {
+        "numerator": 2,
+        "denominator": 147,
+        "value": 0.013605442176870748
+      }
+    },
+    {
+      "followup_us": 34843769000000,
+      "at_risk": 1,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      }
+    }
+  ],
+  "validation": [
+    {
+      "followup_us": 2996000000,
+      "at_risk": 30,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 29,
+        "denominator": 30,
+        "value": 0.9666666666666667
+      }
+    },
+    {
+      "followup_us": 5626000000,
+      "at_risk": 29,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 14,
+        "denominator": 15,
+        "value": 0.9333333333333333
+      }
+    },
+    {
+      "followup_us": 9531000000,
+      "at_risk": 28,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 9,
+        "denominator": 10,
+        "value": 0.9
+      }
+    },
+    {
+      "followup_us": 61122000000,
+      "at_risk": 27,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 15,
+        "value": 0.8666666666666667
+      }
+    },
+    {
+      "followup_us": 82845000000,
+      "at_risk": 26,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 5,
+        "denominator": 6,
+        "value": 0.8333333333333334
+      }
+    },
+    {
+      "followup_us": 106823000000,
+      "at_risk": 25,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 4,
+        "denominator": 5,
+        "value": 0.8
+      }
+    },
+    {
+      "followup_us": 150449000000,
+      "at_risk": 24,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 23,
+        "denominator": 30,
+        "value": 0.7666666666666667
+      }
+    },
+    {
+      "followup_us": 445179000000,
+      "at_risk": 23,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 15,
+        "value": 0.7333333333333333
+      }
+    },
+    {
+      "followup_us": 449843000000,
+      "at_risk": 22,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 7,
+        "denominator": 10,
+        "value": 0.7
+      }
+    },
+    {
+      "followup_us": 498063000000,
+      "at_risk": 21,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 3,
+        "value": 0.6666666666666666
+      }
+    },
+    {
+      "followup_us": 592819000000,
+      "at_risk": 20,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 19,
+        "denominator": 30,
+        "value": 0.6333333333333333
+      }
+    },
+    {
+      "followup_us": 680653000000,
+      "at_risk": 19,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 5,
+        "value": 0.6
+      }
+    },
+    {
+      "followup_us": 699288000000,
+      "at_risk": 18,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 17,
+        "denominator": 30,
+        "value": 0.5666666666666667
+      }
+    },
+    {
+      "followup_us": 1024247000000,
+      "at_risk": 17,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 8,
+        "denominator": 15,
+        "value": 0.5333333333333333
+      }
+    },
+    {
+      "followup_us": 1117262000000,
+      "at_risk": 16,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 2,
+        "value": 0.5
+      }
+    },
+    {
+      "followup_us": 1292972000000,
+      "at_risk": 15,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 7,
+        "denominator": 15,
+        "value": 0.4666666666666667
+      }
+    },
+    {
+      "followup_us": 1403820000000,
+      "at_risk": 14,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 13,
+        "denominator": 30,
+        "value": 0.43333333333333335
+      }
+    },
+    {
+      "followup_us": 1966995000000,
+      "at_risk": 13,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 5,
+        "value": 0.4
+      }
+    },
+    {
+      "followup_us": 2582630000000,
+      "at_risk": 12,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 11,
+        "denominator": 30,
+        "value": 0.36666666666666664
+      }
+    },
+    {
+      "followup_us": 2937162000000,
+      "at_risk": 11,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 3,
+        "value": 0.3333333333333333
+      }
+    },
+    {
+      "followup_us": 3046164000000,
+      "at_risk": 10,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 3,
+        "denominator": 10,
+        "value": 0.3
+      }
+    },
+    {
+      "followup_us": 3437161000000,
+      "at_risk": 9,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 4,
+        "denominator": 15,
+        "value": 0.26666666666666666
+      }
+    },
+    {
+      "followup_us": 3982844000000,
+      "at_risk": 8,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 7,
+        "denominator": 30,
+        "value": 0.23333333333333334
+      }
+    },
+    {
+      "followup_us": 4061061000000,
+      "at_risk": 7,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 5,
+        "value": 0.2
+      }
+    },
+    {
+      "followup_us": 4069343000000,
+      "at_risk": 6,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 1,
+        "denominator": 6,
+        "value": 0.16666666666666666
+      }
+    },
+    {
+      "followup_us": 5944124000000,
+      "at_risk": 5,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      }
+    },
+    {
+      "followup_us": 7982469000000,
+      "at_risk": 4,
+      "events": 0,
+      "censored": 1,
+      "survival": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      }
+    },
+    {
+      "followup_us": 9608930000000,
+      "at_risk": 3,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 4,
+        "denominator": 45,
+        "value": 0.08888888888888889
+      }
+    },
+    {
+      "followup_us": 11773827000000,
+      "at_risk": 2,
+      "events": 0,
+      "censored": 1,
+      "survival": {
+        "numerator": 4,
+        "denominator": 45,
+        "value": 0.08888888888888889
+      }
+    },
+    {
+      "followup_us": 22362264000000,
+      "at_risk": 1,
+      "events": 1,
+      "censored": 0,
+      "survival": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "started_utc": "2026-10-30T21:16:12.882791+00:00",
+  "completed_utc": "2026-10-30T21:16:12.900791+00:00",
+  "elapsed_seconds": 0.01770530000794679,
+  "attempts": [
+    {
+      "name": "cut14-prior1",
+      "status": "PASS",
+      "elapsed_seconds": 0.0007093999302014709
+    },
+    {
+      "name": "cut14-prior5",
+      "status": "PASS",
+      "elapsed_seconds": 0.000610099988989532
+    },
+    {
+      "name": "cut14-prior20",
+      "status": "PASS",
+      "elapsed_seconds": 0.000604800065048039
+    },
+    {
+      "name": "cut30-prior1",
+      "status": "PASS",
+      "elapsed_seconds": 0.0005992000224068761
+    },
+    {
+      "name": "cut30-prior5",
+      "status": "PASS",
+      "elapsed_seconds": 0.0006238999776542187
+    },
+    {
+      "name": "cut30-prior20",
+      "status": "PASS",
+      "elapsed_seconds": 0.0006321999244391918
+    },
+    {
+      "name": "cut60-prior1",
+      "status": "PASS",
+      "elapsed_seconds": 0.0006337000522762537
+    },
+    {
+      "name": "cut60-prior5",
+      "status": "PASS",
+      "elapsed_seconds": 0.0006066999631002545
+    },
+    {
+      "name": "cut60-prior20",
+      "status": "PASS",
+      "elapsed_seconds": 0.0005989000201225281
+    }
+  ],
+  "runtime_is_execution_provenance_not_replay_expected_bytes": true
+}

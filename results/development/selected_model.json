@@ -1,0 +1,49 @@
+{
+  "name": "cut60-prior1",
+  "model": {
+    "cutpoint_days": 60,
+    "prior_strength": 1,
+    "baseline_probability": {
+      "numerator": 13,
+      "denominator": 170,
+      "value": 0.07647058823529412
+    },
+    "strata": [
+      {
+        "side": 0,
+        "n": 154,
+        "positives": 7,
+        "probability": {
+          "numerator": 1203,
+          "denominator": 26350,
+          "value": 0.045654648956356736
+        }
+      },
+      {
+        "side": 1,
+        "n": 14,
+        "positives": 5,
+        "probability": {
+          "numerator": 863,
+          "denominator": 2550,
+          "value": 0.3384313725490196
+        }
+      }
+    ],
+    "training_origins": 168,
+    "training_positives": 12
+  },
+  "baseline": {
+    "cutpoint_days": null,
+    "prior_strength": null,
+    "baseline_probability": {
+      "numerator": 13,
+      "denominator": 170,
+      "value": 0.07647058823529412
+    },
+    "strata": [],
+    "training_origins": 168,
+    "training_positives": 12
+  },
+  "fit_rows": "development training only; no validation refit"
+}

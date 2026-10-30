@@ -1,0 +1,1906 @@
+[
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 298983440,
+    "published_at": "2026-03-19T14:21:42Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 252402609,
+    "published_at": "2025-10-06T13:54:02Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 205541697,
+    "published_at": "2025-03-13T11:09:34Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 205240008,
+    "published_at": "2025-03-12T10:01:42Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 196768763,
+    "published_at": "2025-01-25T11:29:28Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 190882928,
+    "published_at": "2024-12-16T06:58:44Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 168926757,
+    "published_at": "2024-08-06T14:36:42Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 168551506,
+    "published_at": "2024-08-03T14:29:30Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 135428221,
+    "published_at": "2023-12-31T06:29:25Z",
+    "role": "development",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 99656927,
+    "published_at": "2023-04-16T10:45:01Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 86761214,
+    "published_at": "2022-12-21T09:33:16Z",
+    "role": "development",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 73062967,
+    "published_at": "2022-07-28T13:27:48Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 56137586,
+    "published_at": "2021-12-29T13:21:45Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 56066912,
+    "published_at": "2021-12-28T06:58:49Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 42592331,
+    "published_at": "2021-05-07T09:39:42Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 42524883,
+    "published_at": "2021-05-06T08:32:40Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 33494311,
+    "published_at": "2020-11-05T10:11:24Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 30772584,
+    "published_at": "2020-09-05T10:37:54Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 29941689,
+    "published_at": "2020-08-20T17:40:04Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 22611386,
+    "published_at": "2020-01-06T08:40:52Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 20388079,
+    "published_at": "2019-10-01T15:21:43Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 20084587,
+    "published_at": "2019-09-18T16:36:07Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 20084549,
+    "published_at": "2019-09-18T16:34:48Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 20084524,
+    "published_at": "2019-09-18T16:33:38Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 20084489,
+    "published_at": "2019-09-18T16:32:25Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 20084451,
+    "published_at": "2019-09-18T16:30:55Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "python-attrs/attrs",
+    "release_id": 8437874,
+    "published_at": "2017-11-08T18:36:08Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 374801977,
+    "published_at": "2026-08-27T04:00:53Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 343914805,
+    "published_at": "2026-06-26T16:11:15Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 327582556,
+    "published_at": "2026-05-22T04:08:49Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 323734258,
+    "published_at": "2026-05-17T05:12:31Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 310573692,
+    "published_at": "2026-04-22T16:22:12Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 304957897,
+    "published_at": "2026-04-03T19:14:59Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 262701271,
+    "published_at": "2025-11-15T20:46:24Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 246948311,
+    "published_at": "2025-09-18T17:34:57Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 237031828,
+    "published_at": "2025-08-02T02:25:26Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 219915865,
+    "published_at": "2025-05-20T23:20:12Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 217803207,
+    "published_at": "2025-05-10T22:22:29Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 191717754,
+    "published_at": "2024-12-21T18:39:41Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 117660945,
+    "published_at": "2023-08-17T17:29:32Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 112722275,
+    "published_at": "2023-07-18T20:05:42Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 112131445,
+    "published_at": "2023-07-13T15:08:19Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 111307319,
+    "published_at": "2023-07-06T18:28:00Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 65607003,
+    "published_at": "2022-04-28T17:37:47Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 63312839,
+    "published_at": "2022-03-31T20:55:12Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 63195794,
+    "published_at": "2022-03-30T20:17:25Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 62948464,
+    "published_at": "2022-03-28T17:42:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 59938828,
+    "published_at": "2022-02-18T20:32:53Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 51104006,
+    "published_at": "2021-10-10T18:08:47Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 51063926,
+    "published_at": "2021-10-08T22:38:10Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 43247256,
+    "published_at": "2021-05-19T21:02:51Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 42806973,
+    "published_at": "2021-05-12T00:10:32Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 41545878,
+    "published_at": "2021-04-16T14:10:41Z",
+    "role": "development",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 34547833,
+    "published_at": "2020-11-29T14:42:02Z",
+    "role": "development",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 25938603,
+    "published_at": "2020-04-27T21:02:36Z",
+    "role": "development",
+    "disposition": "insufficient_history"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 24361980,
+    "published_at": "2020-03-09T19:01:33Z",
+    "role": "development",
+    "disposition": "insufficient_history"
+  },
+  {
+    "repository": "pallets/click",
+    "release_id": 24361931,
+    "published_at": "2020-03-09T19:00:29Z",
+    "role": "development",
+    "disposition": "insufficient_history"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 287999283,
+    "published_at": "2026-02-19T05:01:30Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 241017558,
+    "published_at": "2025-08-19T21:03:31Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 218299378,
+    "published_at": "2025-05-13T15:01:32Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 185264271,
+    "published_at": "2024-11-13T18:29:05Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 150120146,
+    "published_at": "2024-04-07T19:27:16Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 139785985,
+    "published_at": "2024-02-03T21:12:56Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 137624544,
+    "published_at": "2024-01-18T20:03:56Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 123213336,
+    "published_at": "2023-09-30T14:38:50Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 118057497,
+    "published_at": "2023-08-21T19:52:49Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 101592933,
+    "published_at": "2023-05-02T14:43:59Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 101475723,
+    "published_at": "2023-05-01T15:43:14Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 100863986,
+    "published_at": "2023-04-25T21:22:11Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 100852593,
+    "published_at": "2023-04-25T18:43:20Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 100846619,
+    "published_at": "2023-04-25T17:53:24Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 92623588,
+    "published_at": "2023-02-15T22:44:40Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 73937379,
+    "published_at": "2022-08-08T23:28:14Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 73593428,
+    "published_at": "2022-08-03T23:53:45Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 73388825,
+    "published_at": "2022-08-02T00:20:32Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 71943034,
+    "published_at": "2022-07-13T21:01:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 65612076,
+    "published_at": "2022-04-28T17:48:46Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 63204102,
+    "published_at": "2022-03-30T21:41:35Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 62959530,
+    "published_at": "2022-03-28T19:21:43Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 59545447,
+    "published_at": "2022-02-14T20:04:15Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 50748174,
+    "published_at": "2021-10-04T14:39:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 43362178,
+    "published_at": "2021-05-21T15:57:22Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 42807011,
+    "published_at": "2021-05-12T00:11:51Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 42361993,
+    "published_at": "2021-05-03T14:18:24Z",
+    "role": "development",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 41552611,
+    "published_at": "2021-04-16T15:55:21Z",
+    "role": "development",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 25181245,
+    "published_at": "2020-04-03T17:22:22Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 18499933,
+    "published_at": "2019-07-09T14:57:52Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 18499925,
+    "published_at": "2019-07-09T14:57:41Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 18499870,
+    "published_at": "2019-07-09T14:55:58Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 18499867,
+    "published_at": "2019-07-09T14:55:52Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 10814853,
+    "published_at": "2018-05-02T14:30:04Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 10776361,
+    "published_at": "2018-04-30T02:47:00Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 10776175,
+    "published_at": "2018-04-30T01:58:10Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 10744082,
+    "published_at": "2018-04-26T21:05:18Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pallets/flask",
+    "release_id": 10743986,
+    "published_at": "2018-04-26T20:59:53Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 307979473,
+    "published_at": "2026-04-12T08:27:58Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 307789962,
+    "published_at": "2026-04-11T02:59:31Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 288331196,
+    "published_at": "2026-02-19T17:24:13Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 281936142,
+    "published_at": "2026-02-01T16:21:51Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 279666186,
+    "published_at": "2026-01-24T21:41:58Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 279623138,
+    "published_at": "2026-01-24T12:27:53Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 253369021,
+    "published_at": "2025-10-09T14:18:08Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 235089768,
+    "published_at": "2025-07-25T07:35:18Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 209210099,
+    "published_at": "2025-03-30T14:18:31Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 183208944,
+    "published_at": "2024-11-02T12:15:28Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 181262911,
+    "published_at": "2024-10-22T15:38:03Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 178391497,
+    "published_at": "2024-10-04T11:51:48Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 177805913,
+    "published_at": "2024-10-01T13:37:12Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 177786952,
+    "published_at": "2024-10-01T12:13:50Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 174328707,
+    "published_at": "2024-09-10T12:54:07Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 171980868,
+    "published_at": "2024-08-26T16:15:57Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 144016985,
+    "published_at": "2024-02-28T14:52:38Z",
+    "role": "development",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 129581927,
+    "published_at": "2023-11-15T16:33:44Z",
+    "role": "development",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 123212939,
+    "published_at": "2023-09-30T14:13:00Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 121452782,
+    "published_at": "2023-09-17T15:51:58Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 114676563,
+    "published_at": "2023-08-01T15:47:37Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 114468258,
+    "published_at": "2023-07-31T10:07:14Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 114103369,
+    "published_at": "2023-07-29T16:19:45Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 108229209,
+    "published_at": "2023-06-12T13:57:22Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 105566855,
+    "published_at": "2023-05-31T17:26:35Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 105555235,
+    "published_at": "2023-05-31T15:52:49Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 101146910,
+    "published_at": "2023-04-27T16:00:07Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 99175778,
+    "published_at": "2023-04-12T16:50:35Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 97007874,
+    "published_at": "2023-03-27T10:53:35Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 94518081,
+    "published_at": "2023-03-04T16:30:20Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 90516803,
+    "published_at": "2023-01-28T10:20:56Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 90454661,
+    "published_at": "2023-01-27T17:22:14Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 89559157,
+    "published_at": "2023-01-19T15:07:26Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 88961631,
+    "published_at": "2023-01-14T11:27:47Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 88132168,
+    "published_at": "2023-01-06T14:23:34Z",
+    "role": "development",
+    "disposition": "included_validation"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 87588145,
+    "published_at": "2022-12-30T12:55:57Z",
+    "role": "development",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 78791932,
+    "published_at": "2022-10-02T16:28:13Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 71709049,
+    "published_at": "2022-07-11T14:37:31Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 71703546,
+    "published_at": "2022-07-11T13:55:49Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 67628235,
+    "published_at": "2022-05-24T06:41:38Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 67569289,
+    "published_at": "2022-05-23T16:41:15Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 67520337,
+    "published_at": "2022-05-23T08:58:54Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 66318680,
+    "published_at": "2022-05-08T17:02:48Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 66293338,
+    "published_at": "2022-05-07T14:57:25Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 65366059,
+    "published_at": "2022-04-26T15:18:35Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 63619001,
+    "published_at": "2022-04-05T11:58:55Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 63467022,
+    "published_at": "2022-04-03T13:51:16Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 62436041,
+    "published_at": "2022-03-22T11:11:53Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 61509433,
+    "published_at": "2022-03-10T15:36:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 59051377,
+    "published_at": "2022-02-08T20:13:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 58194849,
+    "published_at": "2022-01-28T14:51:24Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 56684707,
+    "published_at": "2022-01-09T10:38:06Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 56276718,
+    "published_at": "2022-01-02T17:07:10Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 55347628,
+    "published_at": "2021-12-15T09:34:17Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 55129376,
+    "published_at": "2021-12-12T11:12:11Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 54497228,
+    "published_at": "2021-12-02T13:56:16Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 54262092,
+    "published_at": "2021-11-29T18:00:41Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 54196413,
+    "published_at": "2021-11-28T16:37:19Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 53479866,
+    "published_at": "2021-11-16T15:15:03Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 52872004,
+    "published_at": "2021-11-07T16:10:36Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 50888946,
+    "published_at": "2021-10-06T13:09:30Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 50190990,
+    "published_at": "2021-09-24T09:06:32Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 49791480,
+    "published_at": "2021-09-18T09:41:52Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 48633950,
+    "published_at": "2021-08-29T14:57:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 48615416,
+    "published_at": "2021-08-28T15:27:48Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 47388374,
+    "published_at": "2021-08-05T20:19:04Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 46074823,
+    "published_at": "2021-07-12T18:23:29Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 45722254,
+    "published_at": "2021-07-05T14:43:20Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 44885214,
+    "published_at": "2021-06-18T19:47:17Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 44365417,
+    "published_at": "2021-06-09T17:58:18Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 43231002,
+    "published_at": "2021-05-19T16:16:58Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 43088300,
+    "published_at": "2021-05-17T21:32:25Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 42858300,
+    "published_at": "2021-05-12T17:22:13Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 40896525,
+    "published_at": "2021-04-03T09:53:39Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 40711517,
+    "published_at": "2021-03-30T17:22:57Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 40580944,
+    "published_at": "2021-03-27T15:47:07Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 39379767,
+    "published_at": "2021-03-06T15:34:58Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 39083208,
+    "published_at": "2021-03-01T22:37:53Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 39011428,
+    "published_at": "2021-02-28T10:43:38Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 38950339,
+    "published_at": "2021-02-27T16:21:28Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 38899535,
+    "published_at": "2021-02-27T13:16:27Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 38681065,
+    "published_at": "2021-02-24T21:59:00Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 38370503,
+    "published_at": "2021-02-20T12:02:03Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 38079515,
+    "published_at": "2021-02-15T21:13:14Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36994551,
+    "published_at": "2021-01-27T20:58:25Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36807065,
+    "published_at": "2021-01-23T15:44:14Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36439561,
+    "published_at": "2021-01-15T10:12:26Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36345036,
+    "published_at": "2021-01-13T17:01:49Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36250188,
+    "published_at": "2021-01-11T21:44:10Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36181268,
+    "published_at": "2021-01-09T16:48:41Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 36117159,
+    "published_at": "2021-01-07T21:57:22Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 35881768,
+    "published_at": "2020-12-31T17:59:13Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 35844893,
+    "published_at": "2020-12-30T15:36:10Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 35490426,
+    "published_at": "2020-12-18T18:27:39Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 35484265,
+    "published_at": "2020-12-18T16:08:33Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 35187326,
+    "published_at": "2020-12-12T12:18:17Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 34646785,
+    "published_at": "2020-12-01T17:12:40Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 33611375,
+    "published_at": "2020-11-08T12:31:32Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 32989366,
+    "published_at": "2020-10-23T17:01:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 32763737,
+    "published_at": "2020-10-19T15:46:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 32719663,
+    "published_at": "2020-10-18T11:21:14Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 32123788,
+    "published_at": "2020-10-03T13:29:05Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 31844656,
+    "published_at": "2020-09-26T15:22:58Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 31533063,
+    "published_at": "2020-09-18T15:46:30Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 31272495,
+    "published_at": "2020-09-14T16:47:26Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 31137068,
+    "published_at": "2020-09-11T15:53:57Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 30914969,
+    "published_at": "2020-09-08T14:35:55Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 30864025,
+    "published_at": "2020-09-07T16:16:48Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 30113657,
+    "published_at": "2020-08-25T16:32:04Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 29908264,
+    "published_at": "2020-08-20T09:19:31Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 29707625,
+    "published_at": "2020-08-14T16:21:03Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 29521918,
+    "published_at": "2020-08-10T15:46:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 29479131,
+    "published_at": "2020-08-08T19:48:27Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 29202240,
+    "published_at": "2020-08-02T11:23:18Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 29084276,
+    "published_at": "2020-07-29T17:55:59Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28995732,
+    "published_at": "2020-07-27T16:43:30Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28962243,
+    "published_at": "2020-07-26T14:32:10Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28879351,
+    "published_at": "2020-07-23T16:04:12Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28837588,
+    "published_at": "2020-07-22T17:08:20Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28835774,
+    "published_at": "2020-07-22T16:20:39Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28560317,
+    "published_at": "2020-07-14T20:18:51Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28507549,
+    "published_at": "2020-07-13T15:27:41Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28479997,
+    "published_at": "2020-07-12T15:27:18Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28449842,
+    "published_at": "2020-07-10T16:48:57Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28408813,
+    "published_at": "2020-07-09T16:03:24Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28323726,
+    "published_at": "2020-07-07T17:16:15Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28321092,
+    "published_at": "2020-07-07T16:09:42Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28208219,
+    "published_at": "2020-07-03T18:28:27Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28172336,
+    "published_at": "2020-07-02T18:52:58Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28087723,
+    "published_at": "2020-06-30T20:54:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 28000303,
+    "published_at": "2020-06-28T13:54:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27966767,
+    "published_at": "2020-06-26T16:45:50Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27952973,
+    "published_at": "2020-06-26T10:42:06Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27890841,
+    "published_at": "2020-06-24T20:29:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27823135,
+    "published_at": "2020-06-23T10:48:31Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27760458,
+    "published_at": "2020-06-21T11:34:16Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27551210,
+    "published_at": "2020-06-15T10:53:33Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27532989,
+    "published_at": "2020-06-14T15:37:05Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27531804,
+    "published_at": "2020-06-14T13:53:03Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27531495,
+    "published_at": "2020-06-14T13:24:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27465243,
+    "published_at": "2020-06-11T17:36:38Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27408363,
+    "published_at": "2020-06-10T11:56:28Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27299157,
+    "published_at": "2020-06-07T09:17:16Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27106487,
+    "published_at": "2020-06-01T18:20:15Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 27076293,
+    "published_at": "2020-05-31T16:24:54Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26843411,
+    "published_at": "2020-05-24T19:53:42Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26804672,
+    "published_at": "2020-05-22T15:59:09Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26801092,
+    "published_at": "2020-05-22T14:23:10Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26800244,
+    "published_at": "2020-05-22T13:59:31Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26727316,
+    "published_at": "2020-05-20T17:56:28Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26723925,
+    "published_at": "2020-05-20T16:25:11Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26680422,
+    "published_at": "2020-05-19T17:01:43Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26557134,
+    "published_at": "2020-05-15T13:11:51Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26554142,
+    "published_at": "2020-05-15T11:47:45Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26530418,
+    "published_at": "2020-05-14T19:38:42Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26529498,
+    "published_at": "2020-05-14T19:17:28Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26417195,
+    "published_at": "2020-05-12T10:19:39Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26354654,
+    "published_at": "2020-05-10T13:33:18Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26313361,
+    "published_at": "2020-05-08T14:15:17Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26310881,
+    "published_at": "2020-05-08T13:04:13Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26310463,
+    "published_at": "2020-05-08T12:50:50Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 26116644,
+    "published_at": "2020-05-03T10:28:26Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 25713410,
+    "published_at": "2020-04-21T08:32:43Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 25489954,
+    "published_at": "2020-04-14T14:39:47Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 25428147,
+    "published_at": "2020-04-12T14:34:48Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 25426433,
+    "published_at": "2020-04-12T11:54:48Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 25052669,
+    "published_at": "2020-03-31T15:52:02Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 25046499,
+    "published_at": "2020-03-31T13:28:57Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24975994,
+    "published_at": "2020-03-29T16:31:50Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24973316,
+    "published_at": "2020-03-29T13:01:20Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24925793,
+    "published_at": "2020-03-27T10:30:52Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24604298,
+    "published_at": "2020-03-17T17:16:20Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24539650,
+    "published_at": "2020-03-15T17:14:05Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24510026,
+    "published_at": "2020-03-13T16:54:00Z",
+    "role": "development",
+    "disposition": "included_training"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 24177773,
+    "published_at": "2020-03-03T16:20:09Z",
+    "role": "development",
+    "disposition": "insufficient_history"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 23384675,
+    "published_at": "2020-02-04T18:29:03Z",
+    "role": "development",
+    "disposition": "insufficient_history"
+  },
+  {
+    "repository": "Textualize/rich",
+    "release_id": 23134349,
+    "published_at": "2020-01-26T16:10:38Z",
+    "role": "development",
+    "disposition": "insufficient_history"
+  }
+]
