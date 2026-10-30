@@ -1,0 +1,17 @@
+{
+  "status": "PASS_INDEPENDENT_NATIVE_METADATA",
+  "conditions": 6024,
+  "source_files": 18,
+  "source_bytes": 2248070,
+  "source_release_rows": 484,
+  "repositories": 8,
+  "native_reader": "DuckDB 2.0.0 JSON parser and SQL; no collector helper imports",
+  "final_outcomes_analytically_extracted": false,
+  "input_sha256": {
+    "data/source_plan.json": "6d503291ef6a906e2a57aa525bb9562d0d31ca8a56089a99d0c177bfaeaab6e6",
+    "data/release_metadata.json": "530719543d1b35d2836a3c514d87ff704de52f8862277cbcdc58ea72d681820c",
+    "data/repository_metadata.json": "d099090b684c12575731770d921f24c8adf5fe72cdb0bee144cd2cf6a5a5e7ba",
+    "data/source_receipts.json": "acbab815847a91b36f9764ceb3fbec4f9424f5b968f38088f66253a4b8eb45e2"
+  },
+  "scope": "Current minimal release facts and complete API pagination; not historical vintages, all Git tags, maintenance status or future scores"
+}

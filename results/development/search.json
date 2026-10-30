@@ -1,0 +1,1528 @@
+[
+  {
+    "name": "cut14-prior1",
+    "cutpoint_days": 14,
+    "prior_strength": 1,
+    "model": {
+      "cutpoint_days": 14,
+      "prior_strength": 1,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 135,
+          "positives": 6,
+          "probability": {
+            "numerator": 1033,
+            "denominator": 23120,
+            "value": 0.04467993079584775
+          }
+        },
+        {
+          "side": 1,
+          "n": 33,
+          "positives": 6,
+          "probability": {
+            "numerator": 1033,
+            "denominator": 5780,
+            "value": 0.178719723183391
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 82806628561,
+        "denominator": 290786713600,
+        "value": 0.28476757942560965
+      },
+      "micro_brier": {
+        "numerator": 62818903,
+        "denominator": 534534400,
+        "value": 0.11752078631422037
+      },
+      "macro_log_loss": 0.8459455214300824,
+      "micro_log_loss": 0.41201948740078304,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 114178523,
+            "denominator": 9087084800,
+            "value": 0.012564923241389803
+          },
+          "log_loss": 0.09906719640423092
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 15383809,
+            "denominator": 62886400,
+            "value": 0.24462855243741094
+          },
+          "log_loss": 0.8869303458874327
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 886794917,
+            "denominator": 4276275200,
+            "value": 0.20737554893567187
+          },
+          "log_loss": 0.6758480508818814
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 22534009,
+            "denominator": 33408400,
+            "value": 0.6745012930879659
+          },
+          "log_loss": 1.7219364925467846
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 30,
+          "mean_probability": {
+            "numerator": 11363,
+            "denominator": 115600,
+            "value": 0.09829584775086506
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 15,
+            "value": 0.13333333333333333
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut14-prior5",
+    "cutpoint_days": 14,
+    "prior_strength": 5,
+    "model": {
+      "cutpoint_days": 14,
+      "prior_strength": 5,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 135,
+          "positives": 6,
+          "probability": {
+            "numerator": 31,
+            "denominator": 680,
+            "value": 0.045588235294117645
+          }
+        },
+        {
+          "side": 1,
+          "n": 33,
+          "positives": 6,
+          "probability": {
+            "numerator": 217,
+            "denominator": 1292,
+            "value": 0.16795665634674922
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 1541649653,
+        "denominator": 5341644800,
+        "value": 0.288609540829072
+      },
+      "micro_brier": {
+        "numerator": 97978643,
+        "denominator": 834632000,
+        "value": 0.1173914287973622
+      },
+      "macro_log_loss": 0.8582701469417724,
+      "micro_log_loss": 0.41098595300796753,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 1886443,
+            "denominator": 166926400,
+            "value": 0.011301046449213545
+          },
+          "log_loss": 0.0950873740477288
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 80909141,
+            "denominator": 333852800,
+            "value": 0.2423497451571471
+          },
+          "log_loss": 0.8756267906781592
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 55684309,
+            "denominator": 267082240,
+            "value": 0.2084912459922457
+          },
+          "log_loss": 0.678317092239114
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 1155625,
+            "denominator": 1669264,
+            "value": 0.6922961257176815
+          },
+          "log_loss": 1.7840493308020877
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 30,
+          "mean_probability": {
+            "numerator": 6107,
+            "denominator": 64600,
+            "value": 0.09453560371517028
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 15,
+            "value": 0.13333333333333333
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut14-prior20",
+    "cutpoint_days": 14,
+    "prior_strength": 20,
+    "model": {
+      "cutpoint_days": 14,
+      "prior_strength": 20,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 135,
+          "positives": 6,
+          "probability": {
+            "numerator": 128,
+            "denominator": 2635,
+            "value": 0.04857685009487666
+          }
+        },
+        {
+          "side": 1,
+          "n": 33,
+          "positives": 6,
+          "probability": {
+            "numerator": 128,
+            "denominator": 901,
+            "value": 0.14206437291897892
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 46538088467,
+        "denominator": 156028152200,
+        "value": 0.2982672537667853
+      },
+      "micro_brier": {
+        "numerator": 11448882038,
+        "denominator": 97517595125,
+        "value": 0.11740324423838175
+      },
+      "macro_log_loss": 0.8920513462732022,
+      "micro_log_loss": 0.4093723425591,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 168706048,
+            "denominator": 19503519025,
+            "value": 0.008650031196101034
+          },
+          "log_loss": 0.08630101441849167
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 18487976497,
+            "denominator": 78014076100,
+            "value": 0.23698257316156307
+          },
+          "log_loss": 0.8452142444787116
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 3298167869,
+            "denominator": 15602815220,
+            "value": 0.2113828704945722
+          },
+          "log_loss": 0.6852151325068845
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 597529,
+            "denominator": 811801,
+            "value": 0.7360535402149049
+          },
+          "log_loss": 1.9514749936887208
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 30,
+          "mean_probability": {
+            "numerator": 60032,
+            "denominator": 698275,
+            "value": 0.08597185922451756
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 15,
+            "value": 0.13333333333333333
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut30-prior1",
+    "cutpoint_days": 30,
+    "prior_strength": 1,
+    "model": {
+      "cutpoint_days": 30,
+      "prior_strength": 1,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 148,
+          "positives": 6,
+          "probability": {
+            "numerator": 1033,
+            "denominator": 25330,
+            "value": 0.04078168180023687
+          }
+        },
+        {
+          "side": 1,
+          "n": 20,
+          "positives": 6,
+          "probability": {
+            "numerator": 1033,
+            "denominator": 3570,
+            "value": 0.2893557422969188
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 22227586163,
+        "denominator": 94316508300,
+        "value": 0.23567015534861568
+      },
+      "micro_brier": {
+        "numerator": 88836606107,
+        "denominator": 848848574700,
+        "value": 0.1046554223624592
+      },
+      "macro_log_loss": 0.6979134035615869,
+      "micro_log_loss": 0.3620544200130585,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 1836460169,
+            "denominator": 282949524900,
+            "value": 0.006490416160440777
+          },
+          "log_loss": 0.059280503790137884
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 148386369,
+            "denominator": 641608900,
+            "value": 0.23127230467033733
+          },
+          "log_loss": 0.8311080020279866
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 6284706321,
+            "denominator": 31438836100,
+            "value": 0.19990263955732127
+          },
+          "log_loss": 0.6611667027741773
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 6436369,
+            "denominator": 12744900,
+            "value": 0.5050152610063633
+          },
+          "log_loss": 1.240098405654046
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 25,
+          "mean_probability": {
+            "numerator": 1033,
+            "denominator": 25330,
+            "value": 0.04078168180023687
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 25,
+            "value": 0.08
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 5,
+          "mean_probability": {
+            "numerator": 1033,
+            "denominator": 3570,
+            "value": 0.2893557422969188
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 5,
+            "value": 0.4
+          }
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut30-prior5",
+    "cutpoint_days": 30,
+    "prior_strength": 5,
+    "model": {
+      "cutpoint_days": 30,
+      "prior_strength": 5,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 148,
+          "positives": 6,
+          "probability": {
+            "numerator": 217,
+            "denominator": 5202,
+            "value": 0.041714725105728566
+          }
+        },
+        {
+          "side": 1,
+          "n": 20,
+          "positives": 6,
+          "probability": {
+            "numerator": 217,
+            "denominator": 850,
+            "value": 0.25529411764705884
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 14264166397,
+        "denominator": 57504208500,
+        "value": 0.24805430366022688
+      },
+      "micro_brier": {
+        "numerator": 5380606243,
+        "denominator": 50739007500,
+        "value": 0.10604476729269882
+      },
+      "macro_log_loss": 0.7279351113973382,
+      "micro_log_loss": 0.3649600840645259,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 1573196401,
+            "denominator": 287521042500,
+            "value": 0.005471587009149078
+          },
+          "log_loss": 0.057442479126042195
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 6247873,
+            "denominator": 27060804,
+            "value": 0.23088275573778222
+          },
+          "log_loss": 0.8261825958265279
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 3404181841,
+            "denominator": 16913002500,
+            "value": 0.2012760206829036
+          },
+          "log_loss": 0.6627763746928805
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 400689,
+            "denominator": 722500,
+            "value": 0.5545868512110727
+          },
+          "log_loss": 1.3653389959439026
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 25,
+          "mean_probability": {
+            "numerator": 217,
+            "denominator": 5202,
+            "value": 0.041714725105728566
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 25,
+            "value": 0.08
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 5,
+          "mean_probability": {
+            "numerator": 217,
+            "denominator": 850,
+            "value": 0.25529411764705884
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 5,
+            "value": 0.4
+          }
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut30-prior20",
+    "cutpoint_days": 30,
+    "prior_strength": 20,
+    "model": {
+      "cutpoint_days": 30,
+      "prior_strength": 20,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 148,
+          "positives": 6,
+          "probability": {
+            "numerator": 16,
+            "denominator": 357,
+            "value": 0.04481792717086835
+          }
+        },
+        {
+          "side": 1,
+          "n": 20,
+          "positives": 6,
+          "probability": {
+            "numerator": 16,
+            "denominator": 85,
+            "value": 0.18823529411764706
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 23807303,
+        "denominator": 86665320,
+        "value": 0.27470391847627174
+      },
+      "micro_brier": {
+        "numerator": 1049914,
+        "denominator": 9558675,
+        "value": 0.10983886365003517
+      },
+      "macro_log_loss": 0.8020316766474587,
+      "micro_log_loss": 0.3743559815556922,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 215296,
+            "denominator": 54165825,
+            "value": 0.003974757146226426
+          },
+          "log_loss": 0.0554233896371184
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 117049,
+            "denominator": 509796,
+            "value": 0.22959968301045908
+          },
+          "log_loss": 0.8106767432570562
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 2629009,
+            "denominator": 12744900,
+            "value": 0.20627929603213835
+          },
+          "log_loss": 0.6719640394451246
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 4761,
+            "denominator": 7225,
+            "value": 0.658961937716263
+          },
+          "log_loss": 1.6700625342505353
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 30,
+          "mean_probability": {
+            "numerator": 368,
+            "denominator": 5355,
+            "value": 0.06872082166199814
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 15,
+            "value": 0.13333333333333333
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut60-prior1",
+    "cutpoint_days": 60,
+    "prior_strength": 1,
+    "model": {
+      "cutpoint_days": 60,
+      "prior_strength": 1,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 154,
+          "positives": 7,
+          "probability": {
+            "numerator": 1203,
+            "denominator": 26350,
+            "value": 0.045654648956356736
+          }
+        },
+        {
+          "side": 1,
+          "n": 14,
+          "positives": 5,
+          "probability": {
+            "numerator": 863,
+            "denominator": 2550,
+            "value": 0.3384313725490196
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 364388773,
+        "denominator": 1562225625,
+        "value": 0.23324977338020556
+      },
+      "micro_brier": {
+        "numerator": 11127875471,
+        "denominator": 93733537500,
+        "value": 0.11871818527066687
+      },
+      "macro_log_loss": 0.7141849131177361,
+      "micro_log_loss": 0.4219196844813775,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 10872013,
+            "denominator": 1249780500,
+            "value": 0.00869913796862729
+          },
+          "log_loss": 0.06828331018936602
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 159178309,
+            "denominator": 694322500,
+            "value": 0.2292570224931498
+          },
+          "log_loss": 0.8067097118868036
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 1608279313,
+            "denominator": 6248902500,
+            "value": 0.25736988423167106
+          },
+          "log_loss": 0.8983126833257308
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 2845969,
+            "denominator": 6502500,
+            "value": 0.43767304882737407
+          },
+          "log_loss": 1.083433947069044
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 26,
+          "mean_probability": {
+            "numerator": 1203,
+            "denominator": 26350,
+            "value": 0.045654648956356736
+          },
+          "observed_fraction": {
+            "numerator": 3,
+            "denominator": 26,
+            "value": 0.11538461538461539
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 4,
+          "mean_probability": {
+            "numerator": 863,
+            "denominator": 2550,
+            "value": 0.3384313725490196
+          },
+          "observed_fraction": {
+            "numerator": 1,
+            "denominator": 4,
+            "value": 0.25
+          }
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut60-prior5",
+    "cutpoint_days": 60,
+    "prior_strength": 5,
+    "model": {
+      "cutpoint_days": 60,
+      "prior_strength": 5,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 154,
+          "positives": 7,
+          "probability": {
+            "numerator": 251,
+            "denominator": 5406,
+            "value": 0.0464298927118017
+          }
+        },
+        {
+          "side": 1,
+          "n": 14,
+          "positives": 5,
+          "probability": {
+            "numerator": 183,
+            "denominator": 646,
+            "value": 0.28328173374613
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 3728443490,
+        "denominator": 14946068211,
+        "value": 0.24945982029280062
+      },
+      "micro_brier": {
+        "numerator": 18631067647,
+        "denominator": 158252486940,
+        "value": 0.11773001491005826
+      },
+      "macro_log_loss": 0.7508133724889533,
+      "micro_log_loss": 0.4187813220668921,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 1210529185,
+            "denominator": 179352818532,
+            "value": 0.006749429392346116
+          },
+          "log_loss": 0.06433821975657
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 6690757,
+            "denominator": 29224836,
+            "value": 0.22894078858132857
+          },
+          "log_loss": 0.8031096947151518
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 873778763,
+            "denominator": 3516721932,
+            "value": 0.24846399001557454
+          },
+          "log_loss": 0.8744922245429105
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 214369,
+            "denominator": 417316,
+            "value": 0.5136850731819532
+          },
+          "log_loss": 1.261313350941181
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 26,
+          "mean_probability": {
+            "numerator": 251,
+            "denominator": 5406,
+            "value": 0.0464298927118017
+          },
+          "observed_fraction": {
+            "numerator": 3,
+            "denominator": 26,
+            "value": 0.11538461538461539
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 4,
+          "mean_probability": {
+            "numerator": 183,
+            "denominator": 646,
+            "value": 0.28328173374613
+          },
+          "observed_fraction": {
+            "numerator": 1,
+            "denominator": 4,
+            "value": 0.25
+          }
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "cut60-prior20",
+    "cutpoint_days": 60,
+    "prior_strength": 20,
+    "model": {
+      "cutpoint_days": 60,
+      "prior_strength": 20,
+      "baseline_probability": {
+        "numerator": 13,
+        "denominator": 170,
+        "value": 0.07647058823529412
+      },
+      "strata": [
+        {
+          "side": 0,
+          "n": 154,
+          "positives": 7,
+          "probability": {
+            "numerator": 5,
+            "denominator": 102,
+            "value": 0.049019607843137254
+          }
+        },
+        {
+          "side": 1,
+          "n": 14,
+          "positives": 5,
+          "probability": {
+            "numerator": 111,
+            "denominator": 578,
+            "value": 0.19204152249134948
+          }
+        }
+      ],
+      "training_origins": 168,
+      "training_positives": 12
+    },
+    "metrics": {
+      "n": 30,
+      "positives": 4,
+      "prevalence": {
+        "numerator": 2,
+        "denominator": 15,
+        "value": 0.13333333333333333
+      },
+      "macro_brier": {
+        "numerator": 1592559,
+        "denominator": 5679428,
+        "value": 0.28040834393886144
+      },
+      "micro_brier": {
+        "numerator": 5309623,
+        "denominator": 45101340,
+        "value": 0.11772650213940429
+      },
+      "macro_log_loss": 0.8334496552309345,
+      "micro_log_loss": 0.4164134800960476,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 4,
+      "tn": 26,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "Textualize/rich",
+          "n": 17,
+          "positives": 0,
+          "brier": {
+            "numerator": 226489,
+            "denominator": 51114852,
+            "value": 0.004430982212371465
+          },
+          "log_loss": 0.059849056911629006
+        },
+        {
+          "repository": "pallets/click",
+          "n": 4,
+          "positives": 1,
+          "brier": {
+            "numerator": 2371,
+            "denominator": 10404,
+            "value": 0.22789311803152634
+          },
+          "log_loss": 0.7915801012982089
+        },
+        {
+          "repository": "pallets/flask",
+          "n": 8,
+          "positives": 2,
+          "brier": {
+            "numerator": 79015,
+            "denominator": 334084,
+            "value": 0.23651237413345147
+          },
+          "log_loss": 0.8323257953538568
+        },
+        {
+          "repository": "python-attrs/attrs",
+          "n": 1,
+          "positives": 1,
+          "brier": {
+            "numerator": 218089,
+            "denominator": 334084,
+            "value": 0.6527969013780965
+          },
+          "log_loss": 1.6500436673600434
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 30,
+          "mean_probability": {
+            "numerator": 1771,
+            "denominator": 26010,
+            "value": 0.06808919646289889
+          },
+          "observed_fraction": {
+            "numerator": 2,
+            "denominator": 15,
+            "value": 0.13333333333333333
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  }
+]

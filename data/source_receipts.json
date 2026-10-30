@@ -1,0 +1,362 @@
+{
+  "status": "CAPTURED_PENDING_INDEPENDENT_SOURCE_CHECK",
+  "pages": [
+    {
+      "repository": "python-attrs/attrs",
+      "page": 1,
+      "rows": 27,
+      "has_next": false,
+      "sha256": "010de0006ee82f1ec7a312116751f7285ab1351c0c7557fab8f0a68463d4b282"
+    },
+    {
+      "repository": "encode/httpx",
+      "page": 1,
+      "rows": 51,
+      "has_next": false,
+      "sha256": "ee29a45da56b9d07350fb368f2b8ea6d498d5c15048894c84e4bea3bca8bcc15"
+    },
+    {
+      "repository": "pallets/click",
+      "page": 1,
+      "rows": 30,
+      "has_next": false,
+      "sha256": "b559ecbcc99f45b690ee82a3ab8c9b7d357716b64631fb43ed11ca572d514039"
+    },
+    {
+      "repository": "psf/black",
+      "page": 1,
+      "rows": 57,
+      "has_next": false,
+      "sha256": "b24cc4294a75e313c33db6e7e9c4332a4d5631de30dcf93cd66864f684d5b4f3"
+    },
+    {
+      "repository": "pallets/flask",
+      "page": 1,
+      "rows": 38,
+      "has_next": false,
+      "sha256": "1b898ca153ef497c983eb03fb1b80b33fbfdd648c886fe424a1739fad6a33160"
+    },
+    {
+      "repository": "psf/requests",
+      "page": 1,
+      "rows": 19,
+      "has_next": false,
+      "sha256": "4dc7644c7948876c201b930dfa85ab5fe929028a64922de3697a1efbd2dc3260"
+    },
+    {
+      "repository": "Textualize/rich",
+      "page": 1,
+      "rows": 100,
+      "has_next": true,
+      "sha256": "5664c7a1bc4bfe2dfb11946b78c936738987b2c876ac1615415e50739924b452"
+    },
+    {
+      "repository": "Textualize/rich",
+      "page": 2,
+      "rows": 77,
+      "has_next": false,
+      "sha256": "f7dccae6444117aa704fa222a7bd772da24836e59b99aef612f9237a90333e1a"
+    },
+    {
+      "repository": "pytest-dev/pytest",
+      "page": 1,
+      "rows": 85,
+      "has_next": false,
+      "sha256": "33117aedd969cdea2d2bf32c81ef254f176e302c1934d55f39981754f1f29ed0"
+    }
+  ],
+  "originals": [
+    {
+      "url": "https://api.github.com/rate_limit",
+      "started_utc": "2026-10-30T21:09:11.625039+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:11 GMT",
+        "X-RateLimit-Remaining": "60",
+        "X-RateLimit-Reset": "1793398151",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:11.767559+00:00",
+      "stored_bytes": 424,
+      "body_sha256": "abe818e36d954a418d36795fe13632b9133d58863dcbc303c23fd2676db1d968"
+    },
+    {
+      "url": "https://api.github.com/repos/python-attrs/attrs",
+      "started_utc": "2026-10-30T21:09:13.768377+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:14 GMT",
+        "ETag": "W/\"32e85ade5046a9032f11cd5a6e8aa74389f87fd0d6e4386d1d007f4a689e1514\"",
+        "X-RateLimit-Remaining": "59",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:14.004667+00:00",
+      "stored_bytes": 6382,
+      "body_sha256": "5b994fc9d8569ab896d99812675b5e1c1bc4235c9b5cd72c228e59d9ea03c4ae"
+    },
+    {
+      "url": "https://api.github.com/repos/python-attrs/attrs/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:16.006597+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:16 GMT",
+        "ETag": "W/\"0e8085fba6e68916647d2daffd1c9c357301c3ea6d7a55a4b78ccc96bca585d5\"",
+        "X-RateLimit-Remaining": "58",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:16.307080+00:00",
+      "stored_bytes": 135332,
+      "body_sha256": "010de0006ee82f1ec7a312116751f7285ab1351c0c7557fab8f0a68463d4b282"
+    },
+    {
+      "url": "https://api.github.com/repos/encode/httpx",
+      "started_utc": "2026-10-30T21:09:18.308889+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:18 GMT",
+        "ETag": "W/\"ed8e2df39e674c6f4b1df86ea79abbd33bcdc80fa04c0849065d36493f0f2538\"",
+        "X-RateLimit-Remaining": "57",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:18.475583+00:00",
+      "stored_bytes": 6063,
+      "body_sha256": "4d041ada33aaed1823acaad87d696980620b6f723b728599e162a2acbe93cec3"
+    },
+    {
+      "url": "https://api.github.com/repos/encode/httpx/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:20.475991+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:20 GMT",
+        "ETag": "W/\"84e080611e92bbd2b28b026fa0ed7123b3c366058acd7cb7f874855edfa437ac\"",
+        "X-RateLimit-Remaining": "56",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:20.723235+00:00",
+      "stored_bytes": 138073,
+      "body_sha256": "ee29a45da56b9d07350fb368f2b8ea6d498d5c15048894c84e4bea3bca8bcc15"
+    },
+    {
+      "url": "https://api.github.com/repos/pallets/click",
+      "started_utc": "2026-10-30T21:09:22.724940+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:22 GMT",
+        "ETag": "W/\"e083fe2a2138b70a19805a06b741529836b1575f34d259a1ff658f7d41143964\"",
+        "X-RateLimit-Remaining": "55",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:22.896962+00:00",
+      "stored_bytes": 6133,
+      "body_sha256": "f129f38b5a80492a9d067718b9b81f2101adabc51c7d489d692eb65aeb6ebb46"
+    },
+    {
+      "url": "https://api.github.com/repos/pallets/click/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:24.898668+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:25 GMT",
+        "ETag": "W/\"6c35676c07c6acb581c646a1672c8dc4e4bc0835ecc4bedb4d01ff758f8593f3\"",
+        "X-RateLimit-Remaining": "54",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:25.181698+00:00",
+      "stored_bytes": 155467,
+      "body_sha256": "b559ecbcc99f45b690ee82a3ab8c9b7d357716b64631fb43ed11ca572d514039"
+    },
+    {
+      "url": "https://api.github.com/repos/psf/black",
+      "started_utc": "2026-10-30T21:09:27.183077+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:27 GMT",
+        "ETag": "W/\"b3a74327fc388ad4f485c5af4d77bc451b83c26e187ff18fc2a9454a4f5a911d\"",
+        "X-RateLimit-Remaining": "53",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:27.377599+00:00",
+      "stored_bytes": 5861,
+      "body_sha256": "380b6b36cb12c97186b669acc7f25d369e8e1d313a8f1d7e37251a3a5a7dbe0f"
+    },
+    {
+      "url": "https://api.github.com/repos/psf/black/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:29.379062+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:29 GMT",
+        "ETag": "W/\"294c6cd99e7ea2afc1ef7b2053d6c01d658d53ae79579660fa915bf13be2b930\"",
+        "X-RateLimit-Remaining": "52",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:29.808619+00:00",
+      "stored_bytes": 478585,
+      "body_sha256": "b24cc4294a75e313c33db6e7e9c4332a4d5631de30dcf93cd66864f684d5b4f3"
+    },
+    {
+      "url": "https://api.github.com/repos/pallets/flask",
+      "started_utc": "2026-10-30T21:09:31.812235+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:31 GMT",
+        "ETag": "W/\"dddc53f5f4762f9fba806708cb3f8c39214174a7e68b7f32eca591c4e6167566\"",
+        "X-RateLimit-Remaining": "51",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:31.976267+00:00",
+      "stored_bytes": 6175,
+      "body_sha256": "b377ede71d294c337161cc6638737165a50a6cc7a2307dc52869062ac1a7f1a9"
+    },
+    {
+      "url": "https://api.github.com/repos/pallets/flask/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:33.976471+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:34 GMT",
+        "ETag": "W/\"86bedd77e52987afe0786223884bbb023e5665560667ce6b079cf9b7a71f2c37\"",
+        "X-RateLimit-Remaining": "50",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:34.329369+00:00",
+      "stored_bytes": 180883,
+      "body_sha256": "1b898ca153ef497c983eb03fb1b80b33fbfdd648c886fe424a1739fad6a33160"
+    },
+    {
+      "url": "https://api.github.com/repos/psf/requests",
+      "started_utc": "2026-10-30T21:09:36.331095+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:36 GMT",
+        "ETag": "W/\"0dc457dae895a75a25d8d3a947a940051f95d43c79ec7e766d19c4d1fcf5a8bf\"",
+        "X-RateLimit-Remaining": "49",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:36.498213+00:00",
+      "stored_bytes": 6016,
+      "body_sha256": "83acf47e2eb4867440041294b33fe1af88c7eeeca2ef2dcd7ad63812c2bbe0ce"
+    },
+    {
+      "url": "https://api.github.com/repos/psf/requests/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:38.499483+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:38 GMT",
+        "ETag": "W/\"79671011ff93b6a2ae71b610b0bb3328dfc7bfccfa8936ddadf5f644e6ef694f\"",
+        "X-RateLimit-Remaining": "48",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:38.786515+00:00",
+      "stored_bytes": 113808,
+      "body_sha256": "4dc7644c7948876c201b930dfa85ab5fe929028a64922de3697a1efbd2dc3260"
+    },
+    {
+      "url": "https://api.github.com/repos/Textualize/rich",
+      "started_utc": "2026-10-30T21:09:40.787695+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:40 GMT",
+        "ETag": "W/\"ba37480a8e8dec454881d87f57fd9d079c5bf7e5bb6a85a45df10a47415a1252\"",
+        "X-RateLimit-Remaining": "47",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:40.971211+00:00",
+      "stored_bytes": 6404,
+      "body_sha256": "4bfe50c432c840e6927a215684987778a743596de7c50c335eda5c0d0e19dedc"
+    },
+    {
+      "url": "https://api.github.com/repos/Textualize/rich/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:09:42.971972+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:09:43 GMT",
+        "ETag": "W/\"5536a5086b6fb3c25dfd8709bbcccc948308b12950d0d9f1424dd8438ee5b4e6\"",
+        "Link": "<https://api.github.com/repositories/220809393/releases?per_page=100&page=2>; rel=\"next\", <https://api.github.com/repositories/220809393/releases?per_page=100&page=2>; rel=\"last\"",
+        "X-RateLimit-Remaining": "46",
+        "X-RateLimit-Reset": "1793398153",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:09:43.348743+00:00",
+      "stored_bytes": 245663,
+      "body_sha256": "5664c7a1bc4bfe2dfb11946b78c936738987b2c876ac1615415e50739924b452"
+    },
+    {
+      "url": "https://api.github.com/repositories/220809393/releases?per_page=100&page=2",
+      "started_utc": "2026-10-30T21:12:14.182247+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:12:14 GMT",
+        "ETag": "W/\"99126a0b8646d2687dc3f79068bcb6deb35e8a69004eedae4e1487add0c1b532\"",
+        "Link": "<https://api.github.com/repositories/220809393/releases?per_page=100&page=1>; rel=\"prev\", <https://api.github.com/repositories/220809393/releases?per_page=100&page=1>; rel=\"first\"",
+        "X-RateLimit-Remaining": "59",
+        "X-RateLimit-Reset": "1793398334",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:12:14.609603+00:00",
+      "stored_bytes": 164580,
+      "body_sha256": "f7dccae6444117aa704fa222a7bd772da24836e59b99aef612f9237a90333e1a"
+    },
+    {
+      "url": "https://api.github.com/repos/pytest-dev/pytest",
+      "started_utc": "2026-10-30T21:12:16.611848+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:12:16 GMT",
+        "ETag": "W/\"b6c1a6f86cda073a0e1303faecd015b3d2f10272a918607cc2fe850cd4006eec\"",
+        "X-RateLimit-Remaining": "58",
+        "X-RateLimit-Reset": "1793398334",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:12:16.795866+00:00",
+      "stored_bytes": 6366,
+      "body_sha256": "574b78052f014b826947f442b09816272e3b62d07f6b848a0fedc2dd6477c14e"
+    },
+    {
+      "url": "https://api.github.com/repos/pytest-dev/pytest/releases?per_page=100&page=1",
+      "started_utc": "2026-10-30T21:12:18.797626+00:00",
+      "http_status": 200,
+      "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Date": "Fri, 30 Oct 2026 21:12:19 GMT",
+        "ETag": "W/\"0839e6fb14477c18593c6e7a2f31e5a865589cb8d3aeb73e9c1fa0fd14db6e28\"",
+        "X-RateLimit-Remaining": "57",
+        "X-RateLimit-Reset": "1793398334",
+        "X-RateLimit-Limit": "60"
+      },
+      "completed_utc": "2026-10-30T21:12:19.227715+00:00",
+      "stored_bytes": 585855,
+      "body_sha256": "33117aedd969cdea2d2bf32c81ef254f176e302c1934d55f39981754f1f29ed0"
+    }
+  ],
+  "minimal_fields_only": true,
+  "source_assets_downloaded": false,
+  "final_outcomes_analytically_extracted": false
+}

@@ -1,0 +1,1486 @@
+[
+  {
+    "repository": "encode/httpx",
+    "release_id": 188917449,
+    "published_at": "2024-12-06T15:36:24Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 188051569,
+    "published_at": "2024-11-28T14:53:50Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 172138427,
+    "published_at": "2024-08-27T12:52:29Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 171499522,
+    "published_at": "2024-08-27T11:27:46Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 142968465,
+    "published_at": "2024-02-21T13:06:50Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 134415330,
+    "published_at": "2023-12-20T11:01:16Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 131230148,
+    "published_at": "2023-11-24T12:34:49Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 127872550,
+    "published_at": "2023-11-03T13:25:25Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 120613802,
+    "published_at": "2023-09-11T10:14:00Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 103443407,
+    "published_at": "2023-05-18T11:05:02Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 98894390,
+    "published_at": "2023-04-11T10:00:19Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 87864417,
+    "published_at": "2023-01-04T09:39:59Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 87691040,
+    "published_at": "2023-01-02T11:47:10Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 83535508,
+    "published_at": "2022-11-18T12:49:26Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 67557349,
+    "published_at": "2022-05-23T15:31:24Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 58014137,
+    "published_at": "2022-01-26T14:47:57Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 56541369,
+    "published_at": "2022-01-06T14:37:03Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 56472474,
+    "published_at": "2022-01-05T16:24:52Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 53463048,
+    "published_at": "2021-11-16T11:52:02Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 53389025,
+    "published_at": "2021-11-15T14:31:09Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 51268434,
+    "published_at": "2021-10-13T09:44:22Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 49510729,
+    "published_at": "2021-09-14T08:47:29Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 48107287,
+    "published_at": "2021-08-19T11:37:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 44783483,
+    "published_at": "2021-06-17T10:30:28Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 42200780,
+    "published_at": "2021-04-29T12:57:22Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 42076622,
+    "published_at": "2021-04-27T14:22:09Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 39712938,
+    "published_at": "2021-03-15T09:18:42Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 39016671,
+    "published_at": "2021-02-28T16:08:31Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 32318053,
+    "published_at": "2020-10-08T12:14:39Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 32221449,
+    "published_at": "2020-10-06T14:30:11Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 32044729,
+    "published_at": "2020-10-01T12:57:55Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 31808648,
+    "published_at": "2020-09-25T11:35:18Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 31750680,
+    "published_at": "2020-09-24T09:39:46Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 31696073,
+    "published_at": "2020-09-23T10:28:47Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 31693116,
+    "published_at": "2020-09-23T09:22:49Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 31647319,
+    "published_at": "2020-09-22T10:50:35Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 30576960,
+    "published_at": "2020-09-02T11:17:55Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 30045653,
+    "published_at": "2020-08-24T10:04:02Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 29553761,
+    "published_at": "2020-08-11T11:04:33Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 29453315,
+    "published_at": "2020-08-07T14:51:06Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 27026671,
+    "published_at": "2020-05-29T10:29:09Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 26949601,
+    "published_at": "2020-05-27T14:59:12Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 26792183,
+    "published_at": "2020-05-22T09:34:08Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 26790713,
+    "published_at": "2020-05-22T08:42:45Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 26415144,
+    "published_at": "2020-05-12T09:21:06Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 26230783,
+    "published_at": "2020-05-06T14:56:22Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 26054388,
+    "published_at": "2020-04-30T16:10:42Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 20612818,
+    "published_at": "2019-10-10T14:22:06Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 20462068,
+    "published_at": "2019-10-04T00:36:17Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 20462039,
+    "published_at": "2019-10-04T00:33:12Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "encode/httpx",
+    "release_id": 19626055,
+    "published_at": "2019-08-29T14:45:37Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 408629076,
+    "published_at": "2026-10-10T04:11:33Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 403112703,
+    "published_at": "2026-10-04T16:50:23Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 324430137,
+    "published_at": "2026-05-18T16:52:38Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 323745106,
+    "published_at": "2026-05-16T17:56:23Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 295961752,
+    "published_at": "2026-03-12T03:35:15Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 294034683,
+    "published_at": "2026-03-06T17:41:48Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 277681526,
+    "published_at": "2026-01-18T04:49:25Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 268176791,
+    "published_at": "2025-12-08T01:46:21Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 268176374,
+    "published_at": "2025-12-08T01:40:32Z",
+    "role": "final",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 260980107,
+    "published_at": "2025-11-10T01:53:31Z",
+    "role": "final",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 248460539,
+    "published_at": "2025-09-19T00:27:15Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 197284134,
+    "published_at": "2025-01-29T04:15:11Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 178759384,
+    "published_at": "2024-10-07T19:20:06Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 168486939,
+    "published_at": "2024-08-02T17:42:53Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 152905360,
+    "published_at": "2024-04-26T00:31:27Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 152632618,
+    "published_at": "2024-04-24T15:17:30Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 150986434,
+    "published_at": "2024-04-12T20:13:48Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 146841112,
+    "published_at": "2024-03-15T19:35:14Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 141684931,
+    "published_at": "2024-02-12T20:20:40Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 138805158,
+    "published_at": "2024-01-28T05:28:09Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 138616339,
+    "published_at": "2024-01-26T05:11:50Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 134955794,
+    "published_at": "2023-12-22T23:05:40Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 133516389,
+    "published_at": "2023-12-12T06:12:17Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 133517533,
+    "published_at": "2023-12-12T06:27:53Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 128469591,
+    "published_at": "2023-11-08T05:40:50Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 126315980,
+    "published_at": "2023-10-23T19:23:37Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 125458956,
+    "published_at": "2023-10-17T16:13:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 120569010,
+    "published_at": "2023-09-11T00:38:25Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 120506141,
+    "published_at": "2023-09-09T03:29:57Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 111721549,
+    "published_at": "2023-07-11T00:20:37Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 97254919,
+    "published_at": "2023-03-29T01:00:11Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 90924210,
+    "published_at": "2023-02-01T02:53:37Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 86454666,
+    "published_at": "2022-12-18T15:41:57Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 85572828,
+    "published_at": "2022-12-09T15:56:22Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 79216795,
+    "published_at": "2022-10-06T22:43:51Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 75967251,
+    "published_at": "2022-08-31T22:46:11Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 70683981,
+    "published_at": "2022-06-28T00:39:09Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 62958587,
+    "published_at": "2022-03-28T19:09:55Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 58258402,
+    "published_at": "2022-01-29T20:36:55Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 54668535,
+    "published_at": "2021-12-05T22:41:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 53608012,
+    "published_at": "2021-11-18T03:57:34Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 53518931,
+    "published_at": "2021-11-17T02:31:34Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 52416856,
+    "published_at": "2021-11-01T01:01:49Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 49496563,
+    "published_at": "2021-09-14T02:24:50Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 48640190,
+    "published_at": "2021-08-29T21:37:18Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 46323728,
+    "published_at": "2021-07-16T14:44:04Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 44446474,
+    "published_at": "2021-06-10T22:26:39Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 43858891,
+    "published_at": "2021-05-31T14:27:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 42712850,
+    "published_at": "2021-05-10T15:10:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 42437814,
+    "published_at": "2021-05-04T19:55:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 42147598,
+    "published_at": "2021-04-28T15:32:39Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 42078242,
+    "published_at": "2021-04-27T14:42:02Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 41976133,
+    "published_at": "2021-04-25T22:13:31Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 30163816,
+    "published_at": "2020-08-26T15:56:21Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 30159582,
+    "published_at": "2020-08-26T14:32:29Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 21038809,
+    "published_at": "2019-10-28T23:56:53Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/black",
+    "release_id": 16121357,
+    "published_at": "2019-03-14T17:20:59Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 322757947,
+    "published_at": "2026-05-14T19:27:15Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 322083378,
+    "published_at": "2026-05-13T19:23:51Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 320744938,
+    "published_at": "2026-05-11T19:40:27Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 303273336,
+    "published_at": "2026-03-30T16:12:09Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 301316725,
+    "published_at": "2026-03-25T16:38:25Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 240717005,
+    "published_at": "2025-08-18T20:33:27Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 224111548,
+    "published_at": "2025-06-09T18:22:07Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 158021607,
+    "published_at": "2024-05-29T15:39:40Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 156747852,
+    "published_at": "2024-05-21T18:53:48Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 156747736,
+    "published_at": "2024-05-21T18:53:03Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 156543325,
+    "published_at": "2024-05-20T16:19:14Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 103832205,
+    "published_at": "2023-05-22T15:26:23Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 101888093,
+    "published_at": "2023-05-04T14:39:22Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 100974952,
+    "published_at": "2023-04-26T15:26:24Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 88754757,
+    "published_at": "2023-01-12T16:34:32Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 70876305,
+    "published_at": "2022-06-29T15:15:43Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 69068539,
+    "published_at": "2022-06-09T14:47:15Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 56555871,
+    "published_at": "2022-01-06T17:49:01Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "psf/requests",
+    "release_id": 56555733,
+    "published_at": "2022-01-06T17:46:50Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 426006480,
+    "published_at": "2026-10-27T21:30:44Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 341891948,
+    "published_at": "2026-06-19T10:58:55Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 339029752,
+    "published_at": "2026-06-13T18:53:04Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 306206930,
+    "published_at": "2026-04-07T17:16:45Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 268037113,
+    "published_at": "2025-12-06T21:31:16Z",
+    "role": "final",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 261746811,
+    "published_at": "2025-11-12T13:05:30Z",
+    "role": "final",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 260855995,
+    "published_at": "2025-11-08T17:37:52Z",
+    "role": "final",
+    "disposition": "label_window_crosses_boundary"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 244807376,
+    "published_at": "2025-09-04T14:35:52Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 226059725,
+    "published_at": "2025-06-18T05:48:45Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 222503969,
+    "published_at": "2025-06-02T17:37:58Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 203219661,
+    "published_at": "2025-03-02T12:56:47Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 188347250,
+    "published_at": "2024-12-01T13:01:48Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 174306860,
+    "published_at": "2024-09-10T10:53:49Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 167104444,
+    "published_at": "2024-07-25T10:40:33Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 166359538,
+    "published_at": "2024-07-20T16:25:36Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 166358038,
+    "published_at": "2024-07-20T15:33:08Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 158805631,
+    "published_at": "2024-06-04T13:39:01Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 156426072,
+    "published_at": "2024-05-19T19:08:47Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 153109339,
+    "published_at": "2024-04-27T23:35:31Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 153035668,
+    "published_at": "2024-04-26T18:05:59Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 145615300,
+    "published_at": "2024-03-09T11:51:50Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 144555737,
+    "published_at": "2024-03-03T21:24:40Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 143501614,
+    "published_at": "2024-02-24T22:22:07Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 142415944,
+    "published_at": "2024-02-16T22:09:12Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 138794596,
+    "published_at": "2024-01-27T21:58:13Z",
+    "role": "final",
+    "disposition": "included_final"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 137460421,
+    "published_at": "2024-01-17T21:41:21Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 135509455,
+    "published_at": "2024-01-02T08:56:45Z",
+    "role": "final",
+    "disposition": "prerelease"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 135434707,
+    "published_at": "2023-12-31T12:09:47Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 126484374,
+    "published_at": "2023-10-24T19:37:45Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 120335046,
+    "published_at": "2023-09-07T18:56:03Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 119702208,
+    "published_at": "2023-09-02T15:41:11Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 109676980,
+    "published_at": "2023-06-23T11:18:06Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 108116578,
+    "published_at": "2023-06-10T19:29:39Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 99581202,
+    "published_at": "2023-04-14T18:11:59Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 98633712,
+    "published_at": "2023-04-08T21:47:04Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 94456878,
+    "published_at": "2023-03-03T19:12:59Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 88962557,
+    "published_at": "2023-01-14T12:17:56Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 80888458,
+    "published_at": "2022-10-25T07:58:53Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 76137878,
+    "published_at": "2022-09-02T11:13:39Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 65146877,
+    "published_at": "2022-04-23T14:36:35Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 62140458,
+    "published_at": "2022-03-17T21:15:39Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 61705763,
+    "published_at": "2022-03-13T14:54:08Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 59359036,
+    "published_at": "2022-02-11T18:49:52Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 58674692,
+    "published_at": "2022-02-04T10:21:57Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 54772724,
+    "published_at": "2021-12-07T08:35:24Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 48690191,
+    "published_at": "2021-08-30T17:39:28Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 42427086,
+    "published_at": "2021-05-04T16:22:25Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 40906148,
+    "published_at": "2021-04-03T22:06:49Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 36862901,
+    "published_at": "2021-01-25T14:52:06Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 35298512,
+    "published_at": "2020-12-15T15:38:30Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 35194424,
+    "published_at": "2020-12-12T21:18:44Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 33177866,
+    "published_at": "2020-10-28T17:21:19Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 32128320,
+    "published_at": "2020-10-03T19:36:44Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 31846680,
+    "published_at": "2020-09-26T18:08:57Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 31156994,
+    "published_at": "2020-09-11T23:02:16Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 29115209,
+    "published_at": "2020-07-30T12:42:05Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 29045069,
+    "published_at": "2020-07-28T19:59:19Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 30314000,
+    "published_at": "2020-08-28T10:08:07Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 27259894,
+    "published_at": "2020-06-05T11:39:35Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 27145098,
+    "published_at": "2020-06-02T16:44:08Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 26309046,
+    "published_at": "2020-05-08T11:58:57Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 27259838,
+    "published_at": "2020-06-05T11:37:27Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 24503818,
+    "published_at": "2020-03-13T14:06:20Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 24476394,
+    "published_at": "2020-03-12T19:09:01Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 23227190,
+    "published_at": "2020-01-29T16:53:47Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 22982725,
+    "published_at": "2020-01-20T17:26:42Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 22922482,
+    "published_at": "2020-01-17T11:06:11Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 22596546,
+    "published_at": "2020-01-04T20:35:47Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 22373456,
+    "published_at": "2019-12-19T23:50:17Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 22229661,
+    "published_at": "2019-12-14T13:38:09Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 22015419,
+    "published_at": "2019-12-06T01:44:35Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 21770016,
+    "published_at": "2019-11-26T14:56:38Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 21601249,
+    "published_at": "2019-11-19T21:48:59Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 21520910,
+    "published_at": "2019-11-15T22:52:06Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 21489045,
+    "published_at": "2019-11-14T21:15:17Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 20965591,
+    "published_at": "2019-10-25T00:09:01Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 20666393,
+    "published_at": "2019-10-13T14:54:45Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 20501150,
+    "published_at": "2019-10-06T15:51:28Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 20334385,
+    "published_at": "2019-09-29T13:05:49Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 20156781,
+    "published_at": "2019-09-21T13:50:19Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 19662834,
+    "published_at": "2019-08-30T19:03:17Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 19419558,
+    "published_at": "2019-08-20T21:36:17Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 19327673,
+    "published_at": "2019-08-16T01:49:58Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 19190134,
+    "published_at": "2019-08-09T12:04:57Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  },
+  {
+    "repository": "pytest-dev/pytest",
+    "release_id": 19209046,
+    "published_at": "2019-08-10T15:10:37Z",
+    "role": "final",
+    "disposition": "outside_origin_years"
+  }
+]

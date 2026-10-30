@@ -1,0 +1,284 @@
+{
+  "status": "FINAL_PENDING_INDEPENDENT_CHECK",
+  "final_origins": 39,
+  "final_repositories": [
+    "encode/httpx",
+    "psf/black",
+    "psf/requests",
+    "pytest-dev/pytest"
+  ],
+  "selected_name": "cut60-prior1",
+  "models": {
+    "baseline": {
+      "n": 39,
+      "positives": 10,
+      "prevalence": {
+        "numerator": 10,
+        "denominator": 39,
+        "value": 0.2564102564102564
+      },
+      "macro_brier": {
+        "numerator": 90971,
+        "denominator": 317900,
+        "value": 0.2861623151934571
+      },
+      "micro_brier": {
+        "numerator": 83797,
+        "denominator": 375700,
+        "value": 0.22304232100079852
+      },
+      "macro_log_loss": 0.9039896825935385,
+      "micro_log_loss": 0.7183465926985623,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 10,
+      "tn": 29,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "encode/httpx",
+          "n": 5,
+          "positives": 3,
+          "brier": {
+            "numerator": 14857,
+            "denominator": 28900,
+            "value": 0.514083044982699
+          },
+          "log_loss": 1.5743305004340162
+        },
+        {
+          "repository": "psf/black",
+          "n": 11,
+          "positives": 3,
+          "brier": {
+            "numerator": 75299,
+            "denominator": 317900,
+            "value": 0.23686379364580057
+          },
+          "log_loss": 0.758997117489255
+        },
+        {
+          "repository": "psf/requests",
+          "n": 6,
+          "positives": 2,
+          "brier": {
+            "numerator": 8329,
+            "denominator": 28900,
+            "value": 0.2882006920415225
+          },
+          "log_loss": 0.909984780997544
+        },
+        {
+          "repository": "pytest-dev/pytest",
+          "n": 17,
+          "positives": 2,
+          "brier": {
+            "numerator": 3049,
+            "denominator": 28900,
+            "value": 0.10550173010380623
+          },
+          "log_loss": 0.3726463314533385
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 39,
+          "mean_probability": {
+            "numerator": 13,
+            "denominator": 170,
+            "value": 0.07647058823529412
+          },
+          "observed_fraction": {
+            "numerator": 10,
+            "denominator": 39,
+            "value": 0.2564102564102564
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    },
+    "cut60-prior1": {
+      "n": 39,
+      "positives": 10,
+      "prevalence": {
+        "numerator": 10,
+        "denominator": 39,
+        "value": 0.2564102564102564
+      },
+      "macro_brier": {
+        "numerator": 257485549763,
+        "denominator": 1031068912500,
+        "value": 0.2497268093736654
+      },
+      "micro_brier": {
+        "numerator": 46725513767,
+        "denominator": 243707197500,
+        "value": 0.19172808290571722
+      },
+      "macro_log_loss": 0.8097125900166959,
+      "micro_log_loss": 0.625744888859658,
+      "log_loss_floor": 1e-12,
+      "tp": 0,
+      "fp": 0,
+      "fn": 10,
+      "tn": 29,
+      "precision": null,
+      "recall": {
+        "numerator": 0,
+        "denominator": 1,
+        "value": 0.0
+      },
+      "per_repository": [
+        {
+          "repository": "encode/httpx",
+          "n": 5,
+          "positives": 3,
+          "brier": {
+            "numerator": 1727679021,
+            "denominator": 3471612500,
+            "value": 0.497658946959086
+          },
+          "log_loss": 1.6166033468543417
+        },
+        {
+          "repository": "psf/black",
+          "n": 11,
+          "positives": 3,
+          "brier": {
+            "numerator": 159575921,
+            "denominator": 916505700,
+            "value": 0.17411339722164304
+          },
+          "log_loss": 0.5448879069722714
+        },
+        {
+          "repository": "psf/requests",
+          "n": 6,
+          "positives": 2,
+          "brier": {
+            "numerator": 4239210107,
+            "denominator": 18746707500,
+            "value": 0.2261309142952169
+          },
+          "log_loss": 0.7261670774111755
+        },
+        {
+          "repository": "pytest-dev/pytest",
+          "n": 17,
+          "positives": 2,
+          "brier": {
+            "numerator": 631164017,
+            "denominator": 6248902500,
+            "value": 0.10100397901871569
+          },
+          "log_loss": 0.35119202882899553
+        }
+      ],
+      "calibration": [
+        {
+          "bin": 0,
+          "lower": 0.0,
+          "upper": 0.2,
+          "n": 28,
+          "mean_probability": {
+            "numerator": 1203,
+            "denominator": 26350,
+            "value": 0.045654648956356736
+          },
+          "observed_fraction": {
+            "numerator": 5,
+            "denominator": 28,
+            "value": 0.17857142857142858
+          }
+        },
+        {
+          "bin": 1,
+          "lower": 0.2,
+          "upper": 0.4,
+          "n": 11,
+          "mean_probability": {
+            "numerator": 863,
+            "denominator": 2550,
+            "value": 0.3384313725490196
+          },
+          "observed_fraction": {
+            "numerator": 5,
+            "denominator": 11,
+            "value": 0.45454545454545453
+          }
+        },
+        {
+          "bin": 2,
+          "lower": 0.4,
+          "upper": 0.6,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 3,
+          "lower": 0.6,
+          "upper": 0.8,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        },
+        {
+          "bin": 4,
+          "lower": 0.8,
+          "upper": 1.0,
+          "n": 0,
+          "mean_probability": null,
+          "observed_fraction": null
+        }
+      ]
+    }
+  },
+  "selection_changed": false,
+  "fit": "Original development training only; no final fit or validation refit",
+  "qualifications": [
+    "Current public release snapshot, not original historical vintages.",
+    "No release within90 days is not a diagnosis of abandonment or maintenance failure.",
+    "Other repository IDs and later dates; common organizations/ecosystem and dependent intervals remain."
+  ]
+}

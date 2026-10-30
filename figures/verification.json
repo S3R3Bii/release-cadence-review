@@ -1,0 +1,8 @@
+{
+  "status": "PASS_SOURCE_VALUES_AND_ACTUAL_SVG_GEOMETRY",
+  "figure_values": 27,
+  "SVG_coordinates": 194,
+  "format_hashes": 9,
+  "figures": 3,
+  "scope": "Finite numerical/geometry/hash checks; visual pages and prose require separate inspection"
+}

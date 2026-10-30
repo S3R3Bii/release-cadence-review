@@ -1,32 +1,117 @@
 {
-  "timestamp_utc": "2026-10-30T21:03:31.231416+00:00",
-  "version": "Protocol before cohort acquisition",
-  "status": "INCOMPLETE_PROTOCOL_ONLY",
-  "grade": 2,
+  "timestamp_utc": "2026-10-30T21:29:28.300425+00:00",
+  "version": "Local ready candidate; exact remote release proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS",
+  "grade": 4,
   "gates": {
     "scope": "pass_protocol_defined",
-    "source": "unknown",
-    "privacy": "pending_scan",
-    "development": "unknown",
-    "final_separation": "pass_no_cohort_acquired",
-    "replay": "unknown",
-    "release": "pending"
+    "source": "pass_minimal_metadata_and_complete_pagination",
+    "privacy": "pass_bounded_canonical_scan",
+    "development": "pass",
+    "final_separation": "pass_original32_dependency_freeze",
+    "replay": "pass_two_isolated_full_history_clones",
+    "final_analysis": "pass2272_conditions",
+    "figures_and_manuscript": "pass_source_SVG_and_six_page_review"
   },
   "review_budget": {
     "max_rounds": 3,
     "max_active_minutes": 45,
     "max_review_calls": 60,
-    "round": 1,
+    "round": 3,
     "exact_accounting": "Not separately instrumented; acquisition and execution tracked separately"
   },
   "usage": {
     "source": "Codex get_usage_limits",
-    "observed_utc": "2026-10-30T21:00:00Z",
+    "observed_utc_minute": "2026-10-30T21:19Z",
     "window_minutes": 10080,
-    "used_percent": 49,
-    "remaining_percent": 51,
+    "used_percent": 50,
+    "remaining_percent": 50,
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_not_task_consumption": true
+  },
+  "source_evidence": {
+    "files": 18,
+    "bytes": 2248070,
+    "minimal_release_rows": 484,
+    "repositories": 8,
+    "independent_conditions": 6024,
+    "pagination_fixtures": 6,
+    "originals_private": true,
+    "metadata_not_historical_vintages": true
+  },
+  "failures_retained": [
+    "Initial whitespace check continued into commit; receipt normalized in next preserved revision.",
+    "Pagination path guard stopped at numeric repository-ID next link; preserved first15 original receipts/code and resumed once from verified cached bodies; only three new requests.",
+    "First figure legend overlapped subtitle; original files/maps retained and spacing fixed without data changes.",
+    "Initial six-page PDF had long-reference overfull lines; original PDF/source/log retained and xurl wrapping repaired. Final TeX has no layout/glyph warning; Fontconfig notice did not prevent compile/render.",
+    "First isolated312 numerical replay passed but PDF checker required an excluded private compiler log. Failed clone/log retained. Public checker now checks the retained compile receipt and exact source/PDF hashes; CI does not claim a new TeX compile."
+  ],
+  "checked_file_sha256": {
+    "src/features.py": "f49b3e3b6dd9dfc61a27a32da74f8cc059abbaa3309ff84854bdf28e5dabe30b",
+    "src/cadence.py": "1ae0846a6483c65a5af4c3c72952a179df8431c6b8288c80a10f5ea979edddf9",
+    "src/develop.py": "7950351c92d4ceaeaafd7427b81f6c12ccf497ac41aa38e0a433476e09e93096",
+    "src/verify_results.py": "0656571ff2a556b88113a8d5d125d7a01d126af166dedbe792f6fa225e32947f",
+    "src/evaluate_final.py": "7409730f37ec159b8048d28bf4c429d93ac3e62cc049626b7c61caf19848196b",
+    "src/replay.py": "38b0fcead57cd84df5a0eb9be53573b5b1f6703fac00cbd9bc8ebdc3edc82c5c",
+    "src/review_cli.py": "23d34ec81e755803e4f02d0c8f4a3754166b91e39870a127932a625dffc6ac8b",
+    "src/freeze_proof.py": "29e25aae6a07878abba346e7337ae5a0ae37292dc28780bb2806032125b76925",
+    "tests/test_cadence.py": "89e11a79f2db86450e0ca17937a888a8f6ee92710855f1eec86f062980aeefbf",
+    "results/development/summary.json": "1a4c3f968fee504d13416049f5a6a0d63518bb48649aa3d9cef68bfd70339956",
+    "results/development/selected_model.json": "ae4f1d7516c4cc1dccb6387a75abf2112636cf30fcd497336de790594db7cc24",
+    "data/development_verification.json": "ca77dc8034586bf09d630c63bf9b22b6b8382450a0cd84131597e8eaf29b5081"
+  },
+  "development_evidence": {
+    "training_origins": 168,
+    "validation_origins": 30,
+    "source_qualification_rows": 272,
+    "retained_candidates": 9,
+    "prediction_rows": 300,
+    "selected": "cut60-prior1",
+    "independent_conditions": 8970,
+    "fixture_methods": 21,
+    "development_replay_exact_fields": 10575,
+    "development_replay_tolerance_fields": 837,
+    "authored_CLI_examples": 1,
+    "selection_boundary": "Highest candidate cutpoint60 days and weakest prior1; no global optimum claim or unplanned grid extension"
+  },
+  "reviewed_files_sha256": {
+    "paper/main.tex": "6fd7efe1f49fdccdd5b77f460205d479a0aca75d3844aa672dac3bda9226ebee",
+    "paper/manuscript.pdf": "e0565d7bedab6d70337a6da3017b3b1665b28fe1d4462ddd5f64c187905946e0",
+    "paper/images/calibration_and_misses.pdf": "878ae5da2fc946f544b41f2056f8af6fb78fc63194a2da5a6333d9ff26cd67db",
+    "paper/images/project_scores.pdf": "933452d50ed3dc3f64769290b090764d59c02c3921600539172273f453fd2060",
+    "paper/images/validation_search.pdf": "d619d8e06c0b04a24a2891a87631c817a51c15d3ea73ac2980c573149e247d8a"
+  },
+  "final_evidence": {
+    "origins": 39,
+    "predictions": 78,
+    "gaps": 10,
+    "review_true_positives": 0,
+    "review_false_positives": 0,
+    "review_false_negatives": 10,
+    "review_true_negatives": 29,
+    "macro_brier_baseline": 0.2861623151934571,
+    "macro_brier_selected": 0.2497268093736654,
+    "conditions": 2272
+  },
+  "scope": "Specified local artifact acceptance; remote release additionally requires exact candidate/main CI, matching tested content and annotated remote tag",
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/release-cadence-review/pull/2"
+  },
+  "replay_evidence": {
+    "python": [
+      "3.10.11",
+      "3.12.14"
+    ],
+    "exact_fields": 13713,
+    "tolerance_fields": 1010,
+    "unchanged_source_JSON_files": 9,
+    "full_history_clones": true,
+    "frozen_dependencies": 32,
+    "fixtures": 21,
+    "source_network_requests": 0,
+    "authored_CLI_examples": 1,
+    "runtime_provenance": "Original first execution runtimes remain separate; fresh replay runtimes retained"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "status": "PASS_SOURCE_BOUND_MANUSCRIPT",
+  "bound_measured_displays": 68,
+  "conditions": 230,
+  "pages": 6,
+  "PDF_text_extracted": true,
+  "visual_page_inspection": "Separate owner inspection of all six 95dpi rendered pages",
+  "paper_sha256": "e0565d7bedab6d70337a6da3017b3b1665b28fe1d4462ddd5f64c187905946e0",
+  "source_sha256": "6fd7efe1f49fdccdd5b77f460205d479a0aca75d3844aa672dac3bda9226ebee",
+  "limits": "Finite source/text/layout checks; no peer review, independent population validation or original-vintage claim"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS_INDEPENDENT_SQLITE_FRACTION_DECIMAL",
+  "phase": "development",
+  "conditions": 8970,
+  "feature_rows": 198,
+  "qualification_rows": 272,
+  "prediction_rows": 300,
+  "source_network_requests": 0,
+  "log_tolerance": 2e-12,
+  "scope": "Finite retrospective chronological, source-field and exact arithmetic checks; no original-vintage, independence or operational-maintenance claim"
+}
