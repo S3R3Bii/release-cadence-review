@@ -1,16 +1,15 @@
 {
-  "timestamp_utc": "2026-10-30T21:26:59.417219+00:00",
-  "version": "Complete local artifact before full-history clone release replay",
-  "status": "INCOMPLETE_FULL_CLONE_AND_REMOTE_RELEASE_PENDING",
-  "grade": 3,
+  "timestamp_utc": "2026-10-30T21:29:28.300425+00:00",
+  "version": "Local ready candidate; exact remote release proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS",
+  "grade": 4,
   "gates": {
     "scope": "pass_protocol_defined",
     "source": "pass_minimal_metadata_and_complete_pagination",
-    "privacy": "pending_staged_scan",
+    "privacy": "pass_bounded_canonical_scan",
     "development": "pass",
     "final_separation": "pass_original32_dependency_freeze",
-    "replay": "full_history_pending",
-    "release": "pending",
+    "replay": "pass_two_isolated_full_history_clones",
     "final_analysis": "pass2272_conditions",
     "figures_and_manuscript": "pass_source_SVG_and_six_page_review"
   },
@@ -94,5 +93,25 @@
     "macro_brier_baseline": 0.2861623151934571,
     "macro_brier_selected": 0.2497268093736654,
     "conditions": 2272
+  },
+  "scope": "Specified local artifact acceptance; remote release additionally requires exact candidate/main CI, matching tested content and annotated remote tag",
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/release-cadence-review/pull/2"
+  },
+  "replay_evidence": {
+    "python": [
+      "3.10.11",
+      "3.12.14"
+    ],
+    "exact_fields": 13713,
+    "tolerance_fields": 1010,
+    "unchanged_source_JSON_files": 9,
+    "full_history_clones": true,
+    "frozen_dependencies": 32,
+    "fixtures": 21,
+    "source_network_requests": 0,
+    "authored_CLI_examples": 1,
+    "runtime_provenance": "Original first execution runtimes remain separate; fresh replay runtimes retained"
   }
 }

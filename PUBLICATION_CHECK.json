@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T21:28:41.183090+00:00",
+  "timestamp_utc": "2026-10-30T21:29:30.993097+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 70,
+  "files_checked": 72,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -13,7 +13,7 @@
     "LICENSE": "1810ffd0f9ec2e70b051ff6340544087d0dd7b522237d7207e98424373928a41",
     "PROTOCOL.md": "0c122d33ca7cedbc5aca5f8339ba6dfaa10c678379aa007f853c24dd3e2ecc6b",
     "README.md": "b3f2ef7c1d799d21a4f879d60c013ee8abdaabc42f6e9da834e58679fb13e9e7",
-    "REVIEW_RECEIPT.json": "198bd093af61b1afc077e3844f33dfbe4953dd3ef612f2eedc33637d9c20dac2",
+    "REVIEW_RECEIPT.json": "5a277b01359973211c740f496535b026879d9dbaa7f1edb6768e446a6d0591e1",
     "data/dependency_freeze.json": "4b5e0d399264fc74377fd62e4f3b6a2150e9fcc2fb1412fe3473c76781a70998",
     "data/development_verification.json": "ca77dc8034586bf09d630c63bf9b22b6b8382450a0cd84131597e8eaf29b5081",
     "data/final_verification.json": "4f0f84b0cbc58251f4c00af1081910b95e7e6601f5f4040553d464408ac62ea2",
@@ -58,6 +58,8 @@
     "results/final/qualification_ledger.json": "5618c713f436cf6df1eac1c03607b7420e86d72a90af80044c833cc2cb0c9ec1",
     "results/final/summary.json": "4966c47177b5b3f94cac46adb7e594aae610214a44ed849845a2d569b89cd6fe",
     "results/final/survival.json": "f8f4a59bf0ee7b4a07ad068b1a03d972c2ed59d7c4eff05c428a1b422c16c0be",
+    "results/reproduction_cpython310.json": "d7611fc63757d53c991a33adb8e1f28c2738c74748b7203af097249cd38c35d3",
+    "results/reproduction_cpython312.json": "c05d2928c5fc94b5a091837ab733f002df403cfc30084e039cba3608d68073ce",
     "src/acquire_metadata.py": "2d3722ab54876616694407c4cf8008e8dcbdde4a89b7ebd4065dba07255b8b48",
     "src/cadence.py": "1ae0846a6483c65a5af4c3c72952a179df8431c6b8288c80a10f5ea979edddf9",
     "src/develop.py": "7950351c92d4ceaeaafd7427b81f6c12ccf497ac41aa38e0a433476e09e93096",
