@@ -198,9 +198,11 @@ def main():
             ROOT / "figures" / (name + ".pdf")
         ).read_bytes()
         checks += 2
-    assert "Overfull" not in (ROOT / "paper/main.log").read_text(
-        encoding="utf-8"
-    ), "Unrepaired TeX layout warning"
+    build = read("paper/build_receipt.json")
+    assert build["status"] == "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW" and build["layout_warnings"] == []
+    for name in ["paper/main.tex", "paper/manuscript.pdf"]:
+        assert hashlib.sha256((ROOT / name).read_bytes()).hexdigest() == build["artifact_sha256"][name]
+    checks += 3
     result = dict(
         status="PASS_SOURCE_BOUND_MANUSCRIPT",
         bound_measured_displays=len(expected),

@@ -1,7 +1,7 @@
 {
   "status": "PASS_SOURCE_BOUND_MANUSCRIPT",
   "bound_measured_displays": 68,
-  "conditions": 227,
+  "conditions": 230,
   "pages": 6,
   "PDF_text_extracted": true,
   "visual_page_inspection": "Separate owner inspection of all six 95dpi rendered pages",

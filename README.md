@@ -25,7 +25,7 @@ The example uses three authored past intervals. Its conditional teaching estimat
 - Development: 168 training origins, 30 validation origins, nine retained candidates, 300 predictions and 8,970 independent SQLite/Fraction/Decimal conditions. The selected 60-day cut and prior 1 are grid-boundary winners, without a global-optimum claim.
 - [Thirty-two dependencies](data/dependency_freeze.json) were committed before final analytical extraction. Source envelopes already held final metadata; collection was not blinded. Final: 39 origins, 78 predictions and 2,272 independent conditions. Other IDs and 2024–2025 dates do not establish population independence.
 - Brier improves for each final project; encode/httpx log loss worsens. [All project scores](results/final/summary.json), calibration, confusion counts, qualifications and descriptive censored-duration summaries remain inspectable. Review precision is undefined and recall is zero of ten observed gaps.
-- Twenty-one fixture methods; three reviewed figures with 27 source values, 194 SVG coordinates and nine hashes; 68 source-bound manuscript displays, 227 paper checks and all six rendered pages.
+- Twenty-one fixture methods; three reviewed figures with 27 source values, 194 SVG coordinates and nine hashes; 68 source-bound manuscript displays, 230 paper checks and all six rendered pages.
 
 ## Reproduce and interpret
 

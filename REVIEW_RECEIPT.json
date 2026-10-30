@@ -45,7 +45,8 @@
     "Initial whitespace check continued into commit; receipt normalized in next preserved revision.",
     "Pagination path guard stopped at numeric repository-ID next link; preserved first15 original receipts/code and resumed once from verified cached bodies; only three new requests.",
     "First figure legend overlapped subtitle; original files/maps retained and spacing fixed without data changes.",
-    "Initial six-page PDF had long-reference overfull lines; original PDF/source/log retained and xurl wrapping repaired. Final TeX has no layout/glyph warning; Fontconfig notice did not prevent compile/render."
+    "Initial six-page PDF had long-reference overfull lines; original PDF/source/log retained and xurl wrapping repaired. Final TeX has no layout/glyph warning; Fontconfig notice did not prevent compile/render.",
+    "First isolated312 numerical replay passed but PDF checker required an excluded private compiler log. Failed clone/log retained. Public checker now checks the retained compile receipt and exact source/PDF hashes; CI does not claim a new TeX compile."
   ],
   "checked_file_sha256": {
     "src/features.py": "f49b3e3b6dd9dfc61a27a32da74f8cc059abbaa3309ff84854bdf28e5dabe30b",
