@@ -1,0 +1,57 @@
+{
+  "repositories": [
+    {
+      "repository": "python-attrs/attrs",
+      "phase": "development",
+      "assignment_sha256": "212c476ceac903efa10faea940a312375f01cf4d36d195ba784824dc3ed13337"
+    },
+    {
+      "repository": "encode/httpx",
+      "phase": "final",
+      "assignment_sha256": "2869beca07619a28cf256fec33e622565da42433254b2c7bd692c9c9b988b15d"
+    },
+    {
+      "repository": "pallets/click",
+      "phase": "development",
+      "assignment_sha256": "4db6a8e1248f6a6409e9b024ef89f2dd39d1f73269ba45ee95888265052cc467"
+    },
+    {
+      "repository": "psf/black",
+      "phase": "final",
+      "assignment_sha256": "5871f27f38efc74ea1cc7aca575d0e056b39d19c2522e8d49c72cde65b7e6b5c"
+    },
+    {
+      "repository": "pallets/flask",
+      "phase": "development",
+      "assignment_sha256": "8f5a43fbbd9b85a203421d11c8982f40e2df28f3cf2f97be05ebca2c4f7ffa03"
+    },
+    {
+      "repository": "psf/requests",
+      "phase": "final",
+      "assignment_sha256": "a3d1696c5c9028275869979ed5bcc22fee7e1943f72b210009d3406518e6dedf"
+    },
+    {
+      "repository": "Textualize/rich",
+      "phase": "development",
+      "assignment_sha256": "b904288522da8a3158a123bef65db8936357882d4736edc8de60ab8e5469a586"
+    },
+    {
+      "repository": "pytest-dev/pytest",
+      "phase": "final",
+      "assignment_sha256": "d9f212632a7d2710b88b8f872bb919620d52a301a127378320bdf23ab2e94e9f"
+    }
+  ],
+  "per_page": 100,
+  "maximum_release_pages_per_repository": 6,
+  "horizon_days": 90,
+  "cutpoints_days": [
+    14,
+    30,
+    60
+  ],
+  "prior_strengths": [
+    1,
+    5,
+    20
+  ]
+}

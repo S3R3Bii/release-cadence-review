@@ -1,0 +1,32 @@
+{
+  "timestamp_utc": "2026-10-30T21:03:31.231416+00:00",
+  "version": "Protocol before cohort acquisition",
+  "status": "INCOMPLETE_PROTOCOL_ONLY",
+  "grade": 2,
+  "gates": {
+    "scope": "pass_protocol_defined",
+    "source": "unknown",
+    "privacy": "pending_scan",
+    "development": "unknown",
+    "final_separation": "pass_no_cohort_acquired",
+    "replay": "unknown",
+    "release": "pending"
+  },
+  "review_budget": {
+    "max_rounds": 3,
+    "max_active_minutes": 45,
+    "max_review_calls": 60,
+    "round": 1,
+    "exact_accounting": "Not separately instrumented; acquisition and execution tracked separately"
+  },
+  "usage": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-30T21:00:00Z",
+    "window_minutes": 10080,
+    "used_percent": 49,
+    "remaining_percent": 51,
+    "reset_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_not_task_consumption": true
+  }
+}
